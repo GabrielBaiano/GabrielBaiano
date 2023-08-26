@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <div align="center" display="flex">
-<p> - 🌱 I’m currently learning **how to be a gigachad front-end developer** </p>
+<p> - 🌱 I’m currently learning <b>how to be a gigachad front-end developer</b> </p>
  <img width="400" height="400" src="https://cdn3.emoji.gg/emojis/7078-richardchad.gif"/>
 </div>
 - 📫 How to reach me **gabrielngama@gmail.com**
