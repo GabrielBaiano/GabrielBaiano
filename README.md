@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **how to be a gigachad front-end developer**
 
- <img alain="center" src="https://cdn3.emoji.gg/emojis/7078-richardchad.gif"/>
+ <img aling="center" src="https://cdn3.emoji.gg/emojis/7078-richardchad.gif"/>
 
 - 📫 How to reach me **gabrielngama@gmail.com**
 
