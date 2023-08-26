@@ -9,7 +9,7 @@
 <h3 align="left">About Me</h3>
 <hr/>
 <p align="left">
-I'm a front-end developer living in Brazil. I'm loving my development as a programmer and you can follow my GitHub to see my projects and portfolios.</p>
+   I'm a front-end developer living in Brazil. I'm loving my development as a programmer and you can follow my GitHub to see my projects and portfolios.</p>
 
 
 <h3 align="left">🧰  My toolbox:</h3>
