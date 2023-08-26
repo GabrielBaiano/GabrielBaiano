@@ -10,5 +10,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbaiano&show_icons=true&locale=en&layout=compact" alt="gabrielbaiano" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gabrielngal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="https://www.buymeacoffee.com/gabrielngal" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gabrielngal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="https://www.buymeacoffee.com/gabrielngal" /></a></p><br><br>
 
