@@ -6,7 +6,7 @@
  <img width="400" height="400" src="https://cdn3.emoji.gg/emojis/7078-richardchad.gif"/>
 </div>
 
-<h3 align="left">About Me</h3>
+<h3 align="left">🐧  About Me</h3>
 <hr/>
 <p>
    I'm a front-end developer living in Brazil and I love combining my hobbies with programming, like video games, art and building various projects with RaspberryPi's or Arduino.  I'm loving my development as a programmer and you can follow my GitHub to see my projects and portfolios. </p>
