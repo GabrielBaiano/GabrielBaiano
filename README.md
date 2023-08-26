@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gama</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer from Brazil 🇧🇷</h3>
 
 <div align="center" display="flex">
 <p> - 🌱 I’m currently learning <b>how to be a gigachad front-end developer</b> </p>
