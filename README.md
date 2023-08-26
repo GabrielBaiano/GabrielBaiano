@@ -3,7 +3,7 @@
 
 <div align="center" display="flex">
 <p> - 🌱 I’m currently learning <b>how to be a gigachad front-end developer</b> </p>
- <img width="400" height="400" src="https://cdn3.emoji.gg/emojis/7078-richardchad.gif" draggable="false"/>
+ <img width="400" height="400" src="https://cdn3.emoji.gg/emojis/7078-richardchad.gif"/>
 </div>
 
 <h3 align="left">🐧  About Me</h3>
