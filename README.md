@@ -1,16 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel Gama</h1>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
+![](https://media.licdn.com/dms/image/D4D16AQGduUzPZQrzbQ/profile-displaybackgroundimage-shrink_350_1400/0/1722887118204?e=1728518400&v=beta&t=r8xEHgHc8_N_RzMjrFln-jl0-9oG1P3IqikL9c0OpEI)
 
-<div align="center" display="flex">
-<p> - 🌱 I’m currently learning <b>how to be a gigachad front-end developer</b> </p>
- <img width="400" height="400" src="https://cdn3.emoji.gg/emojis/7078-richardchad.gif"/>
-</div>
+I'm a 22 year old Brazilian with a degree in systems analysis and development, I love building things and solving problems. Get to know me better by checking out my [website](https://nascimentodev.com) and social media 😉.
 
-<h3 align="left">🐧  About Me</h3>
-<hr/>
-<p>
-   I'm a front-end developer living in Brazil and I love combining my hobbies with programming, like video games, art and building various projects with RaspberryPi's or Arduino.  I'm loving my development as a programmer and you can follow my GitHub to see my projects and portfolios. </p>
-
+- 🔭 I’m currently working on more projects for my portifoleo 
+- 🌱 I’m currently learning React 
 
 <h3 align="left">🧰  My toolbox:</h3>
 <hr/>
