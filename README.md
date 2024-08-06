@@ -7,5 +7,5 @@ I'm a 22 year old Brazilian with a degree in systems analysis and development, I
 
 <h3 align="left">🧰  My toolbox:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,bootstrap,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,react,bootstrap,linux,figma,mysql)](https://skillicons.dev)
 
