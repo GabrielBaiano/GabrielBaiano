@@ -6,7 +6,6 @@ I'm a 22 year old Brazilian with a degree in systems analysis and development, I
 - 🌱 I’m currently learning React 
 
 <h3 align="left">🧰  My toolbox:</h3>
-<hr/>
+
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,bootstrap,linux)](https://skillicons.dev)
 
-<hr/>
