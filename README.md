@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D4D16AQGduUzPZQrzbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722887118204?e=1746662400&v=beta&t=PmekhidsdbUETmgiu0ijaYHhsinXpJhrgmi7xpytOUE)
+![](https://media.licdn.com/dms/image/v2/D4D16AQGduUzPZQrzbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722887118204?e=1752710400&v=beta&t=PyZu66ZB0ThXICUN_aRrPkMzShs2Y8DCUi-QW0kAdJM)
 
 I'm a 22 year old Brazilian with a degree in systems analysis and development, I love building things and solving problems. Get to know me better by checking out my [website](https://nascimentodev.com) and social media 😉.
 
