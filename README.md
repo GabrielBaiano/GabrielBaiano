@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Hello! 👋 I'm Gabriel, a Brazilian Full Stack Developer.
+Hello! 👋 I'm Gabriel, a Brazilian Front-end Developer.
 
 <br>
 
