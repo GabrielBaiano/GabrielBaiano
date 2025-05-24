@@ -17,3 +17,14 @@ Check out my work & connect:
 </p>
 
 </div>
+
+<br>
+
+<div aling="left">
+  
+My apps & tools:
+
+<p align="left">
+  <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="80"/></a>
+</p>
+</div>
