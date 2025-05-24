@@ -25,12 +25,3 @@ Check out my work & connect:
 </p>
 
 </div>
-
-<details>
-<summary> My other stuff </summary>
-<p aling="center">
-  <a href="https://nascimentodev.com/"><img height="120" src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=tokyonight"  aling="center"/></a>
-  <a href="https://nascimentodev.com/"><img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=tokyonight"  aling="center"/></a>
-</p>
-
-</details>
