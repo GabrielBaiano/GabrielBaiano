@@ -5,7 +5,6 @@
 <div align="center">
 
 Hello! 👋 I'm Gabriel, a Brazilian Front-end Developer.
-
 <br>
 
 Check out my work & connect:
