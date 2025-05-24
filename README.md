@@ -16,15 +16,12 @@ Check out my work & connect:
   <a href="[YOUR_TWITTER_LINK_HERE]" target="_blank">Twitter</a>
 </p>
 
-</div>
-
 <br>
 
-<div aling="left">
-  
-My apps & tools:
+-= My apps and tools =-
 
-<p align="left">
-  <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="80"/></a>
+<p align="center">
+  <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="69"/></a>
 </p>
+
 </div>
