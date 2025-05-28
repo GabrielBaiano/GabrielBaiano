@@ -1,4 +1,4 @@
-<img src="Gabriel (1).png">
+<img src="gitbanner.png">
 
 <br>
 
