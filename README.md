@@ -3,8 +3,9 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/af/89/3e/af893ef77c62353ce8590e418a94783a.gif" style="height: 257px">
+<img src="https://i.pinimg.com/originals/af/89/3e/af893ef77c62353ce8590e418a94783a.gif" style="height: 250px">
 
+<br>
 <br>
 
 Hello! 👋 I'm Gabriel, a Brazilian Front-end Developer.
