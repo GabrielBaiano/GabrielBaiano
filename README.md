@@ -24,7 +24,7 @@ Check out my work & connect:
 -= My apps and tools =-
 
 <p align="center">
-  <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="69"/></a>
+  <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="68"/></a>
 </p>
 
 </div>
