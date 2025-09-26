@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Lamem.gif" style="height: 250px">
+<img src="cat.png" style="height: 250px">
 
 <br>
 <br>
