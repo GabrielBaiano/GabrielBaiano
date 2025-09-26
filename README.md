@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg" style="height: 150px">
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" style="height: 300px">
 
 <br>
 <br>
