@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="Lamem.gif" style="height: 250px">
+<img src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg" style="height: 150px">
 
 <br>
 <br>
@@ -28,5 +28,20 @@ Check out my work & connect:
   <a href="https://github.com/GabrielBaiano/stelthapp_test" target="_blank"><img src="https://github.com/GabrielBaiano/stelthapp_test/blob/main/src/assets/icons/icon.jpg" alt="StealthAPP Showcase" width="68"/></a>
 
 </p>
+<details>
+<summary>📊 Click to expand GitHub Statistics</summary>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="400"/>
+
+
+</div>
+
+</details>
 
 </div>
