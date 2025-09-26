@@ -7,7 +7,7 @@
 <br>
 <br>
 
-Hello! 👋 I'm Gabriel, a Brazilian Front-end Developer.
+Hello! 👋 I'm Gabriel, a Brazilian Full-Stack Developer.
 <br>
 
 Check out my work & connect:
