@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg" style="height: 150px">
+<img src="Lamem.gif" style="height: 250px">
 
 <br>
 <br>
 
-Hello! 👋 I'm Gabriel, a Brazilian Front-end Developer.
+Hello! 👋 I'm Gabriel, a Brazilian Full-Stack Developer.
 <br>
 
 Check out my work & connect:
@@ -23,7 +23,7 @@ Check out my work & connect:
 -= My apps and tools =-
 
 <p align="center">
-  <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="68"/></a>
+  <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="73"/></a>
   <a href="https://github.com/GabrielBaiano/shii-study-assistant" target="_blank"><img src="shii_icon_256x256.png" alt="StealthAPP Showcase" width="68"/></a>
 
 </p>
