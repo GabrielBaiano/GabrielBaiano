@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/82/14/b8/8214b803480012af0dbf1838ed034970.gif" style="height: 250px">
+<img src="Lamem.gif" style="height: 250px">
 
 <br>
 <br>
