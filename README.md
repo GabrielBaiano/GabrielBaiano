@@ -1,4 +1,3 @@
-
 <br>
 
 <div align="center">
@@ -25,7 +24,7 @@ Check out my work & connect:
 
 <p align="center">
   <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank"><img src="https://raw.githubusercontent.com/GabrielBaiano/Banered/main/src/assets/icon.png" alt="Banered Showcase" width="68"/></a>
-  <a href="https://github.com/GabrielBaiano/stelthapp_test" target="_blank"><img src="https://github.com/GabrielBaiano/stelthapp_test/blob/main/src/assets/icons/icon.jpg" alt="StealthAPP Showcase" width="68"/></a>
+  <a href="https://github.com/GabrielBaiano/shii-study-assistant" target="_blank"><img src="shii_icon_256x256.png" alt="StealthAPP Showcase" width="68"/></a>
 
 </p>
 <details>
@@ -38,7 +37,6 @@ Check out my work & connect:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="400"/>
-
 
 </div>
 
