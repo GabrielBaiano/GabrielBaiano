@@ -42,4 +42,13 @@ Check out my work & connect:
 
 </details>
 
+<details>
+  <summary>My other projects and repo</summary>
+  
+**Handbook** | **Homepage** | **Stars** | **Downloads**
+:--- | --- | :--- | :---
+[awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | — | [![GitHub stars](https://badgen.net/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-readme-templates.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-readme-templates)
+
+</details>
+
 </div>
