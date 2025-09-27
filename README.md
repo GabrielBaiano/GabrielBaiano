@@ -29,6 +29,7 @@ Check out my work & connect:
 </p>
 <details>
 <summary>📊 Click to expand GitHub Statistics</summary>
+<br>
 
 <div align="center">
 
@@ -44,7 +45,8 @@ Check out my work & connect:
 
 <details>
   <summary>My other projects and repo</summary>
-  
+  <br>
+
 **Handbook** | **Homepage** | **Stars** | **Downloads**
 :--- | --- | :--- | :---
 [awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | — | [![GitHub stars](https://badgen.net/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-readme-templates.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-readme-templates)
