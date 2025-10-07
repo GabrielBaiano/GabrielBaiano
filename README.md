@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Awesome__2_-removebg-preview.png" style="height: 320px">
+<img src="Awesome__2_-removebg-preview.png" style="height: 380px">
 
 <br>
 <br>
