@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/774b3503e729ff45ae2e879acd29a79a/39f022c1c1c67a06-c2/s1280x1920/a4714b2f2b1995804399bc36ce2dd1df00c7a706.gifv" style="height: 320px">
+<img src="Awesome__2_-removebg-preview.png" style="height: 320px">
 
 <br>
 <br>
