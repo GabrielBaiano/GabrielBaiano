@@ -2,19 +2,48 @@
 
 <div align="center">
 
-<br>
+<table>
+  <tr>
+    <td rowspan="2" valign="top" width="50%">
+      
+**About Me**
+
+```yaml
+name: Gabriel Nascimento
+role: Full-Stack Developer
+location: Brazil 🇧🇷
+code: [TypeScript, JavaScript, Python]
+focus: Building great user experiences
+status: Available for collaboration
+```
+
 <br>
 
-Hello! 👋 I'm Gabriel, a Brazilian Full-Stack Developer.
-<br>
+**Latest Projects**
 
-Check out my work & connect:
+→ [**Banered**](https://github.com/GabrielBaiano/Banered) - Banner creator  
+→ [**Shii**](https://github.com/GabrielBaiano/shii-study-assistant) - AI study tool  
+→ [**Awesome README**](https://github.com/GabrielBaiano/awesome-readme) - Templates  
 
-<p>
-  <a href="https://comunit-folio.web.app/" target="_blank">Website</a> • 
-  <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-5b0b30185/" target="_blank">LinkedIn</a> •
-  <a href="[YOUR_TWITTER_LINK_HERE]" target="_blank">Twitter</a>
-</p>
+</td>
+<td width="50%">
+
+**Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=00000000" width="100%">
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+**Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=transparent&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&dates=8b949e" width="100%">
+
+</td>
+  </tr>
+</table>
 
 <br>
 
@@ -25,21 +54,6 @@ Check out my work & connect:
   <a href="https://github.com/GabrielBaiano/shii-study-assistant" target="_blank"><img src="shii_icon_256x256.png" alt="StealthAPP Showcase" width="68"/></a>
 
 </p>
-<details>
-<summary>📊 Click to expand GitHub Statistics</summary>
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="400"/>
-
-</div>
-
-</details>
 
 <details>
   <summary>My other projects and repo</summary>
