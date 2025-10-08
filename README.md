@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="Awesome__2_-removebg-preview.png" style="height: 120px">
-
 <br>
 <br>
 
