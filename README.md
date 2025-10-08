@@ -2,50 +2,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td rowspan="2" valign="top" width="50%">
-      
-**About Me**
-
-```yaml
-name: Gabriel Nascimento
-role: Full-Stack Developer
-location: Brazil 🇧🇷
-code: [TypeScript, JavaScript, Python]
-focus: Building great user experiences
-status: Available for collaboration
-```
+<img  height="738" alt="image" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" />
 
 <br>
-
-**Latest Projects**
-
-→ [**Banered**](https://github.com/GabrielBaiano/Banered) - Banner creator  
-→ [**Shii**](https://github.com/GabrielBaiano/shii-study-assistant) - AI study tool  
-→ [**Awesome README**](https://github.com/GabrielBaiano/awesome-readme) - Templates  
-
-</td>
-<td width="50%">
-
-**Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=00000000" width="100%">
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-**Streak**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=transparent&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&dates=8b949e" width="100%">
-
-</td>
-  </tr>
-</table>
-
 <br>
+
 
 -= My apps and tools =-
 
