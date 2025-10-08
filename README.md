@@ -19,7 +19,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=transparent&hide_border=true" width="400">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBaiano&theme=transparent&hide_border=true&bg_color=ffffff00&color=000000&line=000000&point=000000" width="400">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBaiano&theme=github&hide_border=true&bg_color=ffffff00&color=58A6FF&line=58A6FF&point=58A6FF&area_color=58A6FF" width="400">
 
 </details>
 
@@ -44,3 +44,4 @@
 </details>
 
 </div>
+
