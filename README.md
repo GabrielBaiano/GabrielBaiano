@@ -2,11 +2,28 @@
 
 <div align="center">
 
+## Hi, my name is Gabriel and I am a Brazilian dev 🇧🇷
+
+[**Website**](https://comunit-folio.web.app/) • [**LinkedIn**](https://linkedin.com/in/gabriel-nascimento-gama-5b0b30185) • [**Twitter**](https://twitter.com/GabrielBaiano)
+
 <img  height="738" alt="image" src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" />
 
 <br>
 <br>
 
+<details>
+<summary>📊 Statistics & Languages</summary>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="400">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=transparent&hide_border=true" width="400">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBaiano&theme=transparent&hide_border=true&bg_color=ffffff00&color=000000&line=000000&point=000000" width="400">
+
+</details>
+
+<br>
 
 -= My apps and tools =-
 
