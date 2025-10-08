@@ -4,7 +4,7 @@
 
 ## Hi, my name is Gabriel and I am a Brazilian dev 🇧🇷
 
-[**Website**](https://comunit-folio.web.app/) • [**LinkedIn**](https://linkedin.com/in/gabriel-nascimento-gama-5b0b30185) • [**Twitter**](https://twitter.com/GabrielBaiano)
+[**Website**](https://comunit-folio.web.app/) • [**LinkedIn**](https://linkedin.com/in/gabriel-nascimento-gama-5b0b30185) • [**Twitter**]()
 
 <img  height="738" alt="image" src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" />
 
