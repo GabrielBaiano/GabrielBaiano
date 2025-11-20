@@ -4,7 +4,6 @@
 
 ## Hi, my name is Gabriel and I am a Brazilian dev
 
-<img  height="738" alt="image" src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" />
 <br>
 <br>
 
