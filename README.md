@@ -4,7 +4,7 @@
 
 ## Hi, my name is Gabriel and I am a Brazilian dev
 
-<img  height="738" alt="image" src="Lamem.gif" />
+<img  height="238" alt="image" src="Lamem.gif" />
 <br>
 <br>
 
