@@ -10,8 +10,8 @@
   <br>
   <h3><i>"This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft."</i></h3>
   <br>
-  <h3><i>My website and blog exist as a record of the journey —<br>
-  where code, thoughts, and experiences are preserved, one entry at a time.</i></h3>
+  <h3><i>Within this dream, you will find the works and thoughts of their creator.
+Through this website and blog, their code, ideas, and experiences are carefully preserved — one entry at a time.</i></h3>
   <br>
   <b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream</a></b>
   <br clear="left"/>
@@ -27,6 +27,16 @@
 <table>
   <tr>
     <td valign="top" width="50%">
+    <td valign="top" width="50%">
+      <h3>GitHub Stats</h3>
+      <div align="center">
+<img
+  src="https://metrics.lecoq.io/GabrielBaiano?template=classic&base=header,repositories,metadata&isocalendar=yes&languages=yes&config.timezone=America%2FSao_Paulo&cache_seconds=21600"
+  width="100%"
+/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
       <h3>My Apps</h3>
       <div align="center">
         <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank">
@@ -35,15 +45,6 @@
         <a href="https://github.com/GabrielBaiano/shii-study-assistant" target="_blank">
           <img src="Assets/projects_icons/shii_icon_256x256.png" alt="StealthAPP Showcase" width="68"/>
         </a>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3>GitHub Stats</h3>
-      <div align="center">
-<img
-  src="https://metrics.lecoq.io/GabrielBaiano?template=classic&base=header,repositories,metadata&isocalendar=yes&languages=yes&config.timezone=America%2FSao_Paulo&cache_seconds=21600"
-  width="100%"
-/>
       </div>
     </td>
   </tr>
