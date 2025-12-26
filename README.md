@@ -76,11 +76,23 @@
   <tbody>
     <tr>
       <td valign="top" align="center">
+        <i>List of books I'm reading recently</i>
+        <br>
+        <br>
         <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/fundacao.jpg" width="100" alt="Foundation">
         <br>
         <a href="https://www.google.com/search?q=Fundacao+Isaac+Asimov" target="_blank"><b>Fundação</b></a>
         <br>
         Status: <b>Reading 📖</b>
+        <br>
+        <br>
+        <details>
+          <summary><b>📚 More books</b></summary>
+          <div align="center">
+            <br>
+            <i>...Archive...</i>
+          </div>
+        </details>
       </td>
       <td valign="top">
         <ul align="left">
@@ -89,7 +101,7 @@
               <b>Muito além do README: O que você provavelmente não sabia sobre documentação no GitHub</b>
             </a>
             <br>
-            1 de Dezembro, 2025 • <b>PT-BR 🇧🇷</b>
+            <sub>1 de Dezembro, 2025 • <b>PT-BR</b></sub>
           </li>
           <br>
           <li>
@@ -97,7 +109,7 @@
               <b>Utilidade pública sobre documentação e repositórios</b>
             </a>
             <br>
-            6 de Outubro • <b>PT-BR 🇧🇷</b>
+            <sub>6 de Outubro • <b>PT-BR</b></sub>
           </li>
         </ul>
       </td>
