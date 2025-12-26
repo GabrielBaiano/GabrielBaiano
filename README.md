@@ -66,21 +66,27 @@
 <br>
 <br>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">Reading</h3>
-      <div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">Reading</th>
+      <th width="50%">Recent Posts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
         <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/fundacao.jpg" width="100" alt="Foundation">
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">Recent Posts</h3>
-      <div align="center">
+        <br>
+        <a href="https://www.google.com/search?q=Fundacao+Isaac+Asimov" target="_blank"><b>Fundação</b></a>
+        <br>
+        Status: <b>Reading 📖</b>
+      </td>
+      <td valign="top" align="center">
         Coming soon...
-      </div>
-    </td>
-  </tr>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
