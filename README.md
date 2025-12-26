@@ -69,8 +69,8 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%">Reading</th>
-      <th width="50%">Recent Posts</th>
+      <th width="35%">Reading</th>
+      <th width="65%">Recent Posts</th>
     </tr>
   </thead>
   <tbody>
@@ -82,21 +82,24 @@
         <br>
         Status: <b>Reading 📖</b>
       </td>
-      <td valign="top" align="center">
-        <div align="left">
-          <a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">
-            <b>Muito além do README: O que você provavelmente não sabia sobre documentação no GitHub</b>
-          </a>
+      <td valign="top">
+        <ul align="left">
+          <li>
+            <a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">
+              <b>Muito além do README: O que você provavelmente não sabia sobre documentação no GitHub</b>
+            </a>
+            <br>
+            1 de Dezembro, 2025 • <b>PT-BR 🇧🇷</b>
+          </li>
           <br>
-          1 de Dezembro, 2025 📅 • 🇧🇷
-          <br>
-          <br>
-          <a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">
-            <b>Utilidade pública sobre documentação e repositórios</b>
-          </a>
-          <br>
-          6 de Outubro 📅 • 🇧🇷
-        </div>
+          <li>
+            <a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">
+              <b>Utilidade pública sobre documentação e repositórios</b>
+            </a>
+            <br>
+            6 de Outubro • <b>PT-BR 🇧🇷</b>
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
