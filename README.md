@@ -40,7 +40,10 @@
     <td valign="top" width="50%">
       <h3>GitHub Stats</h3>
       <div align="center">
-        <img src="https://metrics.lecoq.io/GabrielBaiano?template=classic&base=header,repositories,metadata&isocalendar=yes&languages=yes&config.timezone=America%2FSao_Paulo" width="100%">
+<img
+  src="https://metrics.lecoq.io/GabrielBaiano?template=classic&base=header,repositories,metadata&isocalendar=yes&languages=yes&config.timezone=America%2FSao_Paulo&cache_seconds=21600"
+  width="100%"
+/>
       </div>
     </td>
   </tr>
