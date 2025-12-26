@@ -8,7 +8,7 @@
   <br>
   <br>
   <br>
-  <i>"Hello good hunter, im a doll, here in this dream to look after you"</i>
+  <h3><i>"Hello good hunter, im a doll, here in this dream to look after you"</i></h3>
   <br clear="left"/>
 </div>
   <br>
