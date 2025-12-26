@@ -1,10 +1,6 @@
-<br>
-
 <div align="center">
 
-## Hi, my name is Gabriel and I am a Brazilian dev
-
-<img  height="238" alt="image" src="Lamem.gif" />
+<img  height="15000" alt="image" src="Assets/banners/jjk-transparent.png" />
 <br>
 <br>
 
