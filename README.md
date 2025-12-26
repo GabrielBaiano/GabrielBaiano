@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/ef0da267278d4932bc3b83e960bd01a9/tumblr_nn0duyZphF1rm8k4oo1_400.gif" width="300" align="left" />
+  <img src="Assets/banners/doll.webp" width="300" align="left" style="margin-left: 80px;" />
   <br>
   <br>
   <br>
