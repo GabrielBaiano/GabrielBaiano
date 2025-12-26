@@ -76,7 +76,8 @@
   <tbody>
     <tr>
       <td valign="top" align="center">
-        <i>List of books I'm reading recently</i>
+        <i>A list of books I’m currently reading and have read recently.
+  Click <a href="https://github.com/GabrielBaiano/personal-library">here</a> to explore my personal library with reviews, reading time, and notes.</i>
         <br>
         <br>
         <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/fundacao.jpg" width="100" alt="Foundation">
@@ -87,7 +88,7 @@
         <br>
         <br>
         <details>
-          <summary><b>📚 More books</b></summary>
+          <summary><b>More books</b></summary>
           <div align="center">
             <br>
             <i>...Archive...</i>
