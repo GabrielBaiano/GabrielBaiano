@@ -83,7 +83,20 @@
         Status: <b>Reading 📖</b>
       </td>
       <td valign="top" align="center">
-        Coming soon...
+        <div align="left">
+          <a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">
+            <b>Muito além do README: O que você provavelmente não sabia sobre documentação no GitHub</b>
+          </a>
+          <br>
+          1 de Dezembro, 2025 📅 • 🇧🇷
+          <br>
+          <br>
+          <a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">
+            <b>Utilidade pública sobre documentação e repositórios</b>
+          </a>
+          <br>
+          6 de Outubro 📅 • 🇧🇷
+        </div>
       </td>
     </tr>
   </tbody>
