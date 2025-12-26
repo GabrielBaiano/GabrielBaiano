@@ -7,10 +7,12 @@
   <br>
   <br>
   <br>
-  <h1>| &nbsp;&nbsp; <i>"Hello good hunter, im a doll, here in this dream to look after you"</i></h1>
+  <i>"Hello good hunter, im a doll, here in this dream to look after you"</i>
   <br clear="left"/>
 </div>
-
+  <br>
+  <br>
+  <br>
 
 Hello! I'm Gabriel, a developer passionate about building open source tools and web applications. ➜ [**Website**](https://comunit-folio.web.app/)
 <br>
