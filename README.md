@@ -10,10 +10,9 @@
   <br>
   <h3><i>"This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft."</i></h3>
   <br>
-  <h3><i>Within this dream, you will find the works and thoughts of their creator.
-Through this website and blog, their code, ideas, and experiences are carefully preserved — one entry at a time.</i></h3>
+  <h3><i>"Within this dream, you will find the works and thoughts of their creator. Through this website and blog, their code, ideas, and experiences are carefully preserved — one entry at a time."</i></h3>
   <br>
-  <b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream</a></b>
+  <b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream (my blog and portifolio)</a></b>
   <br clear="left"/>
 </div>
   <br>
@@ -26,8 +25,7 @@ Through this website and blog, their code, ideas, and experiences are carefully 
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <h3>GitHub Stats</h3>
       <div align="center">
 <img
@@ -36,14 +34,14 @@ Through this website and blog, their code, ideas, and experiences are carefully 
 />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
       <h3>My Apps</h3>
       <div align="center">
         <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank">
-          <img src="Assets/projects_icons/Banered_icon.png" alt="Banered Showcase" width="73"/>
+          <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/projects_icons/Banered_icon.png" alt="Banered Showcase" width="73"/>
         </a>
         <a href="https://github.com/GabrielBaiano/shii-study-assistant" target="_blank">
-          <img src="Assets/projects_icons/shii_icon_256x256.png" alt="StealthAPP Showcase" width="68"/>
+          <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/projects_icons/shii_icon_256x256.png" alt="StealthAPP Showcase" width="68"/>
         </a>
       </div>
     </td>
