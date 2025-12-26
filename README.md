@@ -82,7 +82,14 @@
         <br>
         <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/fundacao.jpg" width="100" alt="Foundation">
         <br>
-        <a href="https://www.google.com/search?q=Fundacao+Isaac+Asimov" target="_blank"><b>Fundação</b></a>
+        <a href="https://www.google.com/search?q=Fundacao+Isaac+Asimov" target="_blank"><b>Fundação</b></a> 🇧🇷
+        <br>
+        Status: <b>Reading 📖</b>
+        <br>
+        <br>
+        <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/theBorgias.webp" width="100" alt="The Borgias">
+        <br>
+        <a href="https://www.google.com/search?q=The+Borgias+Book" target="_blank"><b>The Borgias</b></a> 🇧🇷
         <br>
         Status: <b>Reading 📖</b>
         <br>
