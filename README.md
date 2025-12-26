@@ -50,8 +50,11 @@
   </tr>
 </table>
 
+<br>
+<br>
+
 <details>
-  <summary>My other projects and repo</summary>
+  <summary><b>👇 My other projects and repo</b></summary>
   <br>
 
 **Handbook** | **Homepage** | **Stars** | **Downloads**
