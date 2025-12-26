@@ -10,10 +10,10 @@
   <br>
   <h3><i>"This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft."</i></h3>
   <br>
-  My website and blog exist as a record of the journey —<br>
-  where code, thoughts, and experiences are preserved, one entry at a time.
-  <br><br>
-  🔗 <b><a href="https://a-new-type-portifolio.vercel.app/">Visit the Dream</a></b>
+  <h3><i>My website and blog exist as a record of the journey —<br>
+  where code, thoughts, and experiences are preserved, one entry at a time.</i></h3>
+  <br>
+  <b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream</a></b>
   <br clear="left"/>
 </div>
   <br>
@@ -40,9 +40,9 @@
     <td valign="top" width="50%">
       <h3>GitHub Stats</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=dark&hide_border=true" width="100%">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=transparent&hide_border=true" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=dark&hide_border=true" width="100%">
         <br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBaiano&theme=github&hide_border=true&bg_color=ffffff00&color=58A6FF&line=58A6FF&point=58A6FF&area_color=58A6FF" width="100%">
       </div>
