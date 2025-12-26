@@ -1,18 +1,15 @@
 <div align="center">
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://64.media.tumblr.com/ef0da267278d4932bc3b83e960bd01a9/tumblr_nn0duyZphF1rm8k4oo1_400.gif" width="300" />
-    </td>
-    <td align="center" style="border: none; padding: 0 20px;">
-      <h1>|</h1>
-    </td>
-    <td align="center" style="border: none;">
-      <h3><i>"Hello good hunter, im a doll, here in this dream to look after you"</i></h3>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://64.media.tumblr.com/ef0da267278d4932bc3b83e960bd01a9/tumblr_nn0duyZphF1rm8k4oo1_400.gif" width="300" align="left" />
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h1>| &nbsp;&nbsp; <i>"Hello good hunter, im a doll, here in this dream to look after you"</i></h1>
+  <br clear="left"/>
+</div>
 
 
 Hello! I'm Gabriel, a developer passionate about building open source tools and web applications. ➜ [**Website**](https://comunit-folio.web.app/)
