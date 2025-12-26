@@ -6,16 +6,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="80" height="1" align="right" />
   <br>
   <br>
-  <br>
   <h3><i>"Hello good hunter, im a doll, here in this dream to look after you"</i></h3>
   <br>
   <h3><i>"This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft."</i></h3>
   <br>
+  <h3><i>"My website and blog exist as a record of the journey —<br>
+  where code, thoughts, and experiences are preserved, one entry at a time."</i></h3>
   <br>
-  My website and blog exist as a record of the journey —<br>
-  where code, thoughts, and experiences are preserved, one entry at a time.
-  <br><br>
-  🔗 <b><a href="https://comunit-folio.web.app/">Visit the Dream</a></b>
+  🌕 <b><a href="https://comunit-folio.web.app/">Visit the Dream</a></b>
   <br clear="left"/>
 </div>
   <br>
