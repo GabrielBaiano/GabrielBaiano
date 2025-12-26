@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="80" height="1" align="left" />
   <img src="Assets/banners/doll.webp" width="300" align="left" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="80" height="1" align="right" />
   <br>
   <br>
   <br>
