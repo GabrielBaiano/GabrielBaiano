@@ -100,6 +100,9 @@
         </details>
       </td>
       <td valign="top">
+        <i>A collection of my latest articles and thoughts on technology, documentation, and open source.</i>
+        <br>
+        <br>
         <ul align="left">
           <li>
             <a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">
