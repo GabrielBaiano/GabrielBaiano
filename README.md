@@ -1,13 +1,11 @@
 <div align="center">
 
-<img alt="Banner" src="Assets/banners/Lamem.gif" width="100%" />
+<img  height="15000" alt="image" src="Assets/banners/jjk-transparent.png" />
 <br>
 <br>
 
 
-I'm a Full Stack Developer passionate about building innovative web solutions and open-source tools.
-<br>
-➜ [**My Website**](https://comunit-folio.web.app/)
+Hello! I'm Gabriel, a developer passionate about building open source tools and web applications. ➜ [**Website**](https://comunit-folio.web.app/)
 <br>
 <br>
 
@@ -39,7 +37,7 @@ I'm a Full Stack Developer passionate about building innovative web solutions an
 
 **Handbook** | **Homepage** | **Stars** | **Downloads**
 :--- | --- | :--- | :---
-[awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [**Awesome Readme**](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://badgen.net/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-readme-templates.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-readme-templates)
+[awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [Homepage](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://badgen.net/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-readme-templates.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-readme-templates)
 
 </details>
 
