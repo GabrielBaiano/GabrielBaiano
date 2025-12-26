@@ -87,18 +87,15 @@
         Status: <b>Reading 📖</b>
         <br>
         <br>
-        <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/theBorgias.webp" width="100" alt="The Borgias">
-        <br>
-        <a href="https://www.google.com/search?q=The+Borgias+Book" target="_blank"><b>The Borgias</b></a> 🇧🇷
-        <br>
-        Status: <b>Reading 📖</b>
-        <br>
-        <br>
         <details>
           <summary><b>More books</b></summary>
           <div align="center">
             <br>
-            <i>...Archive...</i>
+            <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/theBorgias.webp" width="100" alt="The Borgias">
+            <br>
+            <a href="https://www.google.com/search?q=The+Borgias+Book" target="_blank"><b>The Borgias</b></a> 🇧🇷
+            <br>
+            Status: <b>Reading 📖</b>
           </div>
         </details>
       </td>
