@@ -1,6 +1,6 @@
 <div align="center">
 
-<img  height="15000" alt="image" src="Assets/banners/jjk-transparent.png" />
+<img  height="1500" alt="image" src="Assets/banners/jjk-transparent.png" />
 <br>
 <br>
 
