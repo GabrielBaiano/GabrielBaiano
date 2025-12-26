@@ -63,5 +63,25 @@
 
 </details>
 
+<br>
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Reading</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/fundacao.jpg" width="100" alt="Foundation">
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Recent Posts</h3>
+      <div align="center">
+        Coming soon...
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
