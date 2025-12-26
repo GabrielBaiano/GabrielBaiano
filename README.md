@@ -7,9 +7,9 @@
   <br>
   <br>
   <br>
-  <br>
-  <br>
   <h3><i>"Hello good hunter, im a doll, here in this dream to look after you"</i></h3>
+  <br>
+  <i>"This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft."</i>
   <br clear="left"/>
 </div>
   <br>
