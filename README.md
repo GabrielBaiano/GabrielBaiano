@@ -40,11 +40,7 @@
     <td valign="top" width="50%">
       <h3>GitHub Stats</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabrielBaiano&show_icons=true&theme=dark&hide_border=true" width="100%">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=dark&hide_border=true" width="100%">
-        <br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBaiano&theme=github&hide_border=true&bg_color=ffffff00&color=58A6FF&line=58A6FF&point=58A6FF&area_color=58A6FF" width="100%">
+        <img src="https://metrics.lecoq.io/GabrielBaiano?template=classic&base=header,repositories,metadata&isocalendar=yes&languages=yes&config.timezone=America%2FSao_Paulo" width="100%">
       </div>
     </td>
   </tr>
