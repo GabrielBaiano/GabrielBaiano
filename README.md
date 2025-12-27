@@ -117,7 +117,7 @@
               <b>Utilidade pública sobre documentação e repositórios</b>
             </a>
             <br>
-            <sub>6 de Outubro • <b>PT-BR</b></sub>
+            <sub>6 de Outubro, 2025 • <b>PT-BR</b></sub>
           </li>
         </ul>
       </td>
