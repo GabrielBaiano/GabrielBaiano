@@ -78,6 +78,10 @@
       <td valign="top">
         <div align="center">
           <table>
+                    <i>A list of books I’m currently reading and have read recently.
+  Click <a href="https://github.com/GabrielBaiano/personal-library">here</a> to explore my personal library with reviews, reading time, and notes.</i>
+            <br>
+            <br>
             <!-- READING_START -->
 <tr>
       <td align="center">
