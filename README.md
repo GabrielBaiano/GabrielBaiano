@@ -82,7 +82,7 @@
 <tr>
       <td align="center">
         <a href="https://openlibrary.org/works/OL106394W/Foundation">
-          <img src="https://covers.openlibrary.org/b/id/14604364-L.jpg" alt="Fundação" width="120">
+          <img src="https://m.media-amazon.com/images/I/81ZwYoGHefL._AC_UF1000,1000_QL80_.jpg" alt="Fundação" width="120">
         </a>
         <br />
         <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
@@ -93,7 +93,7 @@
       </td>
       <td align="center">
         <a href="https://openlibrary.org/works/OL36691W/The_Family">
-            <img src="https://covers.openlibrary.org/b/olid/OL3946294M-L.jpg" alt="Os Bórgias" width="120">
+            <img src="https://cdn.record.com.br/wp-content/uploads/2019/07/12145247/9788501062765.jpg" alt="Os Bórgias" width="120">
         </a>
         <br />
         <img src="https://img.shields.io/badge/History-orange" alt="History Badge">
@@ -104,7 +104,7 @@
       </td>
       <td align="center">
         <a href="https://openlibrary.org/works/OL21639W/Count_Zero">
-            <img src="https://covers.openlibrary.org/b/id/10520601-L.jpg" alt="Count Zero" width="120">
+            <img src="https://m.media-amazon.com/images/I/91EoktiGQ0L._UF1000,1000_QL80_.jpg" alt="Count Zero" width="120">
         </a>
         <br />
         <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
