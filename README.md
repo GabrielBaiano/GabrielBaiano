@@ -79,7 +79,42 @@
         <div align="center">
           <table>
             <!-- READING_START -->
-            <!-- READING_END -->
+<tr>
+      <td align="center">
+        <a href="https://openlibrary.org/works/OL106394W/Foundation">
+          <img src="https://covers.openlibrary.org/b/id/14604364-L.jpg" alt="Fundação" width="120">
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
+        <br />
+        <a href="https://openlibrary.org/works/OL106394W/Foundation"><b>Fundação</b></a> <sup>BR</sup>
+        <br />
+        Status: <b>Reading 📖</b>
+      </td>
+      <td align="center">
+        <a href="https://openlibrary.org/works/OL36691W/The_Family">
+            <img src="https://covers.openlibrary.org/b/olid/OL3946294M-L.jpg" alt="Os Bórgias" width="120">
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/History-orange" alt="History Badge">
+        <br />
+        <a href="https://openlibrary.org/works/OL36691W/The_Family"><b>Os Bórgias</b></a> <sup>BR</sup>
+        <br />
+        Status: <b>Reading 📖</b>
+      </td>
+      <td align="center">
+        <a href="https://openlibrary.org/works/OL21639W/Count_Zero">
+            <img src="https://covers.openlibrary.org/b/id/10520601-L.jpg" alt="Count Zero" width="120">
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
+        <br />
+        <a href="https://openlibrary.org/works/OL21639W/Count_Zero"><b>Count Zero</b></a> <sup>BR</sup>
+        <br />
+        Status: <b>Reading 📖</b>
+      </td>
+    </tr>
+<!-- READING_END -->
           </table>
         </div>
       </td>
