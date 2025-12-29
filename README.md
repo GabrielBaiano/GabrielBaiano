@@ -23,7 +23,7 @@
 <br>
 <br>
 
-![Bloodborne Stats](https://github.com/GabrielBaiano/personal_bloodborn_svg/blob/main/bloodborne_animated_hq.svg)
+![Bloodborne Stats](https://raw.githubusercontent.com/GabrielBaiano/personal_bloodborn_svg/main/bloodborne_animated_hq.svg)
 
 <br>
 <br>
