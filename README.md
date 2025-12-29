@@ -76,30 +76,31 @@
   <tbody>
     <tr>
       <!-- READING_START -->
-      <td valign="top" align="center">
-        <i>A list of books I’m currently reading and have read recently.
-  Click <a href="https://github.com/GabrielBaiano/personal-library">here</a> to explore my personal library with reviews, reading time, and notes.</i>
-        <br>
-        <br>
-        <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/fundacao.jpg" width="100" alt="Foundation">
-        <br>
-        <a href="https://www.google.com/search?q=Fundacao+Isaac+Asimov" target="_blank"><b>Fundação</b></a> 🇧🇷
-        <br>
+<tr>
+      <td align="center">
+        <a href="https://openlibrary.org/works/OL106394W/Foundation">
+          <img src="/2026/fundacao/fundacao_bookcover.jpg" alt="Fundação" width="120">
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
+        <br />
+        <a href="https://openlibrary.org/works/OL106394W/Foundation"><b>Fundação</b></a> <sup>BR</sup>
+        <br />
         Status: <b>Reading 📖</b>
-        <br>
-        <br>
-        <details>
-          <summary><b>More books</b></summary>
-          <div align="center">
-            <br>
-            <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/theBorgias.webp" width="100" alt="The Borgias">
-            <br>
-            <a href="https://www.google.com/search?q=The+Borgias+Book" target="_blank"><b>The Borgias</b></a> 🇧🇷
-            <br>
-            Status: <b>Reading 📖</b>
-          </div>
-        </details>
-        <!-- READING_END -->
+      </td>
+      <td align="center">
+        <a href="https://openlibrary.org/works/OL36691W/The_Family">
+            <img src="/2026/os_borgias/os_borgias_bookcover.webp" alt="Os Bórgias" width="120">
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/History-orange" alt="History Badge">
+        <br />
+        <a href="https://openlibrary.org/works/OL36691W/The_Family"><b>Os Bórgias</b></a> <sup>BR</sup>
+        <br />
+        Status: <b>Reading 📖</b>
+      </td>
+    </tr>
+<!-- READING_END -->
       </td>
       <td valign="top">
         <i>A collection of my latest articles and thoughts on technology, documentation, and open source.</i>
