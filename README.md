@@ -23,32 +23,7 @@
 <br>
 <br>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3 align="center">GitHub Stats</h3>
-      <hr>
-      <div align="center">
-<img
-  src="https://metrics.lecoq.io/GabrielBaiano?template=classic&base=header,repositories,metadata&isocalendar=yes&languages=yes&config.timezone=America%2FSao_Paulo&cache_seconds=21600"
-  width="100%"
-/>
-      </div>
-    </td>
-    <td valign="top" width="40%">
-      <h3 align="center">My Apps</h3>
-      <hr>
-      <div align="center">
-        <a href="https://github.com/GabrielBaiano/Banered/tree/main" target="_blank">
-          <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/projects_icons/Banered_icon.png" alt="Banered Showcase" width="73"/>
-        </a>
-        <a href="https://github.com/GabrielBaiano/shii-study-assistant" target="_blank">
-          <img src="https://raw.githubusercontent.com/GabrielBaiano/GabrielBaiano/main/Assets/projects_icons/shii_icon_256x256.png" alt="StealthAPP Showcase" width="68"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+![Bloodborne Stats](https://github.com/GabrielBaiano/personal_bloodborn_svg/blob/main/bloodborne_animated_hq.svg)
 
 <br>
 <br>
