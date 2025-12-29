@@ -75,6 +75,7 @@
   </thead>
   <tbody>
     <tr>
+      <!-- READING_START -->
       <td valign="top" align="center">
         <i>A list of books I’m currently reading and have read recently.
   Click <a href="https://github.com/GabrielBaiano/personal-library">here</a> to explore my personal library with reviews, reading time, and notes.</i>
@@ -98,6 +99,7 @@
             Status: <b>Reading 📖</b>
           </div>
         </details>
+        <!-- READING_END -->
       </td>
       <td valign="top">
         <i>A collection of my latest articles and thoughts on technology, documentation, and open source.</i>
