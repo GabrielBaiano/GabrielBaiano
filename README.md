@@ -75,32 +75,13 @@
   </thead>
   <tbody>
     <tr>
-      <!-- READING_START -->
-<tr>
-      <td align="center">
-        <a href="https://openlibrary.org/works/OL106394W/Foundation">
-          <img src="/2026/fundacao/fundacao_bookcover.jpg" alt="Fundação" width="120">
-        </a>
-        <br />
-        <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
-        <br />
-        <a href="https://openlibrary.org/works/OL106394W/Foundation"><b>Fundação</b></a> <sup>BR</sup>
-        <br />
-        Status: <b>Reading 📖</b>
-      </td>
-      <td align="center">
-        <a href="https://openlibrary.org/works/OL36691W/The_Family">
-            <img src="/2026/os_borgias/os_borgias_bookcover.webp" alt="Os Bórgias" width="120">
-        </a>
-        <br />
-        <img src="https://img.shields.io/badge/History-orange" alt="History Badge">
-        <br />
-        <a href="https://openlibrary.org/works/OL36691W/The_Family"><b>Os Bórgias</b></a> <sup>BR</sup>
-        <br />
-        Status: <b>Reading 📖</b>
-      </td>
-    </tr>
-<!-- READING_END -->
+      <td valign="top">
+        <div align="center">
+          <table>
+            <!-- READING_START -->
+            <!-- READING_END -->
+          </table>
+        </div>
       </td>
       <td valign="top">
         <i>A collection of my latest articles and thoughts on technology, documentation, and open source.</i>
