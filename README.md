@@ -1,68 +1,27 @@
 <div align="center">
 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="10" height="1" align="left" />
+  <img src="Assets/banners/doll.webp" width="300" align="left" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="80" height="1" align="right" />
+  <br>
+  <br>
+  <h3><i>"Hello good hunter, im a doll, here in this dream to look after you"</i></h3>
+  <br>
+  <h3><i>"This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft."</i></h3>
+  <br>
+  <h3><i>"Within this dream, you will find the works and thoughts of their creator. Through this website and blog, their code, ideas, and experiences are carefully preserved — one entry at a time."</i></h3>
+  <br>
+  <b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream (my blog and portifolio)</a></b>
+  <br clear="left"/>
+</div>
+  <br>
+
 ![Bloodborne Stats](https://raw.githubusercontent.com/GabrielBaiano/personal_bloodborn_svg/main/bloodborne_animated_hq.svg)
 
 <br>
-
 <br>
 
-<table border="0" width="100%">
-  <tr>
-  <!-- Left Column: About & Stacks -->
-  <td width="55%" valign="top">
-<h3>🏹 About Me</h3>
-<p><i>"A Hunter must hunt... and code."</i></p>
-<p>Building dreams into reality, one line of code at a time. Passionate about creating immersive web experiences and robust applications.</p>
-<br>
-<b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream (my blog and portifolio)</a></b>
-<br><br>
-<b>Main Stack</b>
-<br>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<br><br>
-<b>Side Projects Stack</b>
-<br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  </td>
-  <!-- Right Column: Mini Resume -->
-  <td width="45%" valign="top">
-<h3>📜 Mini Resume</h3>
-<ul align="left">
-<li>
-<b>+3 Years of Experience</b><br>
-<sub>Full Stack Developer</sub>
-</li>
-<br>
-<li>
-<b>Masters in Computer Science</b><br>
-<sub>In Progress</sub>
-</li>
-<br>
-<li>
-<b>Systems Analysis & Development</b><br>
-<sub>Bachelor's Degree</sub>
-</li>
-</ul>
-  </td>
-  </tr>
-</table>
-
-<br>
-
-
-
-</div>
-
-<br>
-<br>
-
-<div align="center">
 <details>
   <summary><b>👇 My other projects and repo</b></summary>
   <br>
@@ -72,7 +31,6 @@
 [awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [Homepage](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://badgen.net/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-readme-templates.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-readme-templates)
 
 </details>
-</div>
 
 <br>
 <br>
@@ -160,6 +118,7 @@
 </table>
 
 </div>
+
 
 
 
