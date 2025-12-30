@@ -8,47 +8,42 @@
 
 <table border="0" width="100%">
   <tr>
-    <!-- Left Column: About & Stacks -->
-    <td width="55%" valign="top">
-      <h3>🏹 About Me</h3>
-      <p><i>"A Hunter must hunt... and code."</i></p>
-      <p>Building dreams into reality, one line of code at a time. Passionate about creating immersive web experiences and robust applications.</p>
-      
-      <br>
-      
-      <b>Main Stack</b>
-      <br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      
-      <br><br>
-      
-      <b>Side Projects Stack</b>
-      <br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-    </td>
-    
-    <!-- Right Column: Mini Resume -->
-    <td width="45%" valign="top">
-      <h3>📜 Mini Resume</h3>
-      <ul align="left">
-        <li>
-            <b>Sr. Software Engineer</b> @ [Company Name]<br>
-            <sub>2023 - Present</sub>
-        </li>
-        <br>
-        <li>
-            <b>Full Stack Developer</b> @ [Company Name]<br>
-            <sub>2021 - 2023</sub>
-        </li>
-        <br>
-        <li>
-            <b>Freelancer</b> @ Self-Employed<br>
-            <sub>2020 - 2021</sub>
-        </li>
-      </ul>
-    </td>
+  <!-- Left Column: About & Stacks -->
+  <td width="55%" valign="top">
+<h3>🏹 About Me</h3>
+<p><i>"A Hunter must hunt... and code."</i></p>
+<p>Building dreams into reality, one line of code at a time. Passionate about creating immersive web experiences and robust applications.</p>
+<br>
+<b>Main Stack</b>
+<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<br><br>
+<b>Side Projects Stack</b>
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  </td>
+  <!-- Right Column: Mini Resume -->
+  <td width="45%" valign="top">
+<h3>📜 Mini Resume</h3>
+<ul align="left">
+<li>
+<b>Sr. Software Engineer</b> @ [Company Name]<br>
+<sub>2023 - Present</sub>
+</li>
+<br>
+<li>
+<b>Full Stack Developer</b> @ [Company Name]<br>
+<sub>2021 - 2023</sub>
+</li>
+<br>
+<li>
+<b>Freelancer</b> @ Self-Employed<br>
+<sub>2020 - 2021</sub>
+</li>
+</ul>
+  </td>
   </tr>
 </table>
 
