@@ -16,12 +16,6 @@
   <br clear="left"/>
 </div>
   <br>
-  <br>
-  <br>
-
-
-<br>
-<br>
 
 ![Bloodborne Stats](https://raw.githubusercontent.com/GabrielBaiano/personal_bloodborn_svg/main/bloodborne_animated_hq.svg)
 
@@ -124,4 +118,6 @@
 </table>
 
 </div>
+
+
 
