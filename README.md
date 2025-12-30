@@ -14,9 +14,15 @@
 <p><i>"A Hunter must hunt... and code."</i></p>
 <p>Building dreams into reality, one line of code at a time. Passionate about creating immersive web experiences and robust applications.</p>
 <br>
+<b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream (my blog and portifolio)</a></b>
+<br><br>
 <b>Main Stack</b>
 <br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 <br><br>
 <b>Side Projects Stack</b>
 <br>
@@ -29,18 +35,18 @@
 <h3>📜 Mini Resume</h3>
 <ul align="left">
 <li>
-<b>Sr. Software Engineer</b> @ [Company Name]<br>
-<sub>2023 - Present</sub>
+<b>+3 Years of Experience</b><br>
+<sub>Full Stack Developer</sub>
 </li>
 <br>
 <li>
-<b>Full Stack Developer</b> @ [Company Name]<br>
-<sub>2021 - 2023</sub>
+<b>Masters in Computer Science</b><br>
+<sub>In Progress</sub>
 </li>
 <br>
 <li>
-<b>Freelancer</b> @ Self-Employed<br>
-<sub>2020 - 2021</sub>
+<b>Systems Analysis & Development</b><br>
+<sub>Bachelor's Degree</sub>
 </li>
 </ul>
   </td>
@@ -49,7 +55,7 @@
 
 <br>
 
-<b><a href="https://a-new-type-portifolio.vercel.app/">🌘 Visit the Dream (my blog and portifolio)</a></b>
+
 
 </div>
 
