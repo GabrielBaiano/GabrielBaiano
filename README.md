@@ -53,24 +53,35 @@
             <br>
             <!-- READING_START -->
 <tr><td align="center">
-        <a href="https://openlibrary.org/works/OL106394W/Foundation">
-          <img src="https://m.media-amazon.com/images/I/81ZwYoGHefL._AC_UF1000,1000_QL80_.jpg" alt="Fundação" width="120">
+        <a href="https://www.google.com.br/books/edition/Funda%C3%A7%C3%A3o/x8quCgAAQBAJ?hl=pt-BR&gbpv=1&dq=funda%C3%A7%C3%A3o+isaac+asimov&printsec=frontcover">
+          <img src="https://books.google.com/books/content?id=x8quCgAAQBAJ&printsec=frontcover&img=1&zoom=1" alt="Fundação" width="120">
         </a>
         <br />
         <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
         <br />
-        <a href="https://openlibrary.org/works/OL106394W/Foundation"><b>Fundação</b></a> <sup>BR</sup>
+        <a href="https://www.google.com.br/books/edition/Funda%C3%A7%C3%A3o/x8quCgAAQBAJ?hl=pt-BR&gbpv=1&dq=funda%C3%A7%C3%A3o+isaac+asimov&printsec=frontcover"><b>Fundação</b></a> <sup>BR</sup>
         <br />
         Status: <b>Reading 📖</b>
       </td></tr>
 <tr><td align="center">
-        <a href="https://openlibrary.org/works/OL36691W/The_Family">
-            <img src="https://cdn.record.com.br/wp-content/uploads/2019/07/12145247/9788501062765.jpg" alt="Os Bórgias" width="120">
+        <a href="https://www.google.com.br/books/edition/The_Family/ldPIxgRaEuoC?hl=pt-BR&gbpv=1&dq=the+family+book+mario+puzo&pg=PT1&printsec=frontcover">
+            <img src="https://books.google.com/books/content?id=ldPIxgRaEuoC&printsec=frontcover&img=1&zoom=1" alt="Os Bórgias" width="120">
         </a>
         <br />
         <img src="https://img.shields.io/badge/History-orange" alt="History Badge">
         <br />
-        <a href="https://openlibrary.org/works/OL36691W/The_Family"><b>Os Bórgias</b></a> <sup>BR</sup>
+        <a href="https://www.google.com.br/books/edition/The_Family/ldPIxgRaEuoC?hl=pt-BR&gbpv=1&dq=the+family+book+mario+puzo&pg=PT1&printsec=frontcover"><b>Os Bórgias</b></a> <sup>BR</sup>
+        <br />
+        Status: <b>Reading 📖</b>
+      </td></tr>
+<tr><td align="center">
+        <a href="https://www.google.com.br/books/edition/Entendendo_Algoritmos/HWewDgAAQBAJ?hl=pt-BR&gbpv=1&dq=algoritmo+livro&printsec=frontcover">
+            <img src="https://books.google.com/books/content?id=HWewDgAAQBAJ&printsec=frontcover&img=1&zoom=1" alt="Entendendo Algoritmos" width="120">
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/Tech-blue" alt="Tech Badge">
+        <br />
+        <a href="https://www.google.com.br/books/edition/Entendendo_Algoritmos/HWewDgAAQBAJ?hl=pt-BR&gbpv=1&dq=algoritmo+livro&printsec=frontcover"><b>Entendendo Algoritmos</b></a> <sup>BR</sup>
         <br />
         Status: <b>Reading 📖</b>
       </td></tr>
