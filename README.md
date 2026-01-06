@@ -95,6 +95,14 @@
         <br>
         <ul align="left">
           <li>
+            <a href="https://www.tabnews.com.br/gabrielbaiano/do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">
+              <b>Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</b>
+            </a>
+            <br>
+            <sub>2 de Janeiro, 2026 • <b>PT-BR</b></sub>
+          </li>
+          <br>
+          <li>
             <a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">
               <b>Muito além do README: O que você provavelmente não sabia sobre documentação no GitHub</b>
             </a>
