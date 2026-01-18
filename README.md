@@ -38,85 +38,32 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="35%">Reading</th>
-      <th width="65%">Recent Posts</th>
+      <th width="35%">TabNews</th>
+      <th width="65%">Portfolio Updates</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
-        <div align="center">
-          <table>
-                    <i>A list of books I’m currently reading and have read recently.
-  Click <a href="https://github.com/GabrielBaiano/personal-library">here</a> to explore my personal library with reviews, reading time, and notes.</i>
-            <br>
-            <br>
-            <!-- READING_START -->
-<tr><td align="center">
-        <a href="https://www.google.com.br/books/edition/Funda%C3%A7%C3%A3o/x8quCgAAQBAJ?hl=pt-BR&gbpv=1&dq=funda%C3%A7%C3%A3o+isaac+asimov&printsec=frontcover">
-          <img src="https://books.google.com/books/content?id=x8quCgAAQBAJ&printsec=frontcover&img=1&zoom=1" alt="Fundação" width="120">
-        </a>
-        <br />
-        <img src="https://img.shields.io/badge/Sci--Fi-blue" alt="Sci-Fi Badge">
-        <br />
-        <a href="https://www.google.com.br/books/edition/Funda%C3%A7%C3%A3o/x8quCgAAQBAJ?hl=pt-BR&gbpv=1&dq=funda%C3%A7%C3%A3o+isaac+asimov&printsec=frontcover"><b>Fundação</b></a> <sup>BR</sup>
-        <br />
-        Status: <b>Reading 📖</b>
-      </td></tr>
-<tr><td align="center">
-        <a href="https://www.google.com.br/books/edition/The_Family/ldPIxgRaEuoC?hl=pt-BR&gbpv=1&dq=the+family+book+mario+puzo&pg=PT1&printsec=frontcover">
-            <img src="https://books.google.com/books/content?id=ldPIxgRaEuoC&printsec=frontcover&img=1&zoom=1" alt="Os Bórgias" width="120">
-        </a>
-        <br />
-        <img src="https://img.shields.io/badge/History-orange" alt="History Badge">
-        <br />
-        <a href="https://www.google.com.br/books/edition/The_Family/ldPIxgRaEuoC?hl=pt-BR&gbpv=1&dq=the+family+book+mario+puzo&pg=PT1&printsec=frontcover"><b>Os Bórgias</b></a> <sup>BR</sup>
-        <br />
-        Status: <b>Reading 📖</b>
-      </td></tr>
-<tr><td align="center">
-        <a href="https://www.google.com.br/books/edition/Entendendo_Algoritmos/HWewDgAAQBAJ?hl=pt-BR&gbpv=1&dq=algoritmo+livro&printsec=frontcover">
-            <img src="https://books.google.com/books/content?id=HWewDgAAQBAJ&printsec=frontcover&img=1&zoom=1" alt="Entendendo Algoritmos" width="120">
-        </a>
-        <br />
-        <img src="https://img.shields.io/badge/Tech-blue" alt="Tech Badge">
-        <br />
-        <a href="https://www.google.com.br/books/edition/Entendendo_Algoritmos/HWewDgAAQBAJ?hl=pt-BR&gbpv=1&dq=algoritmo+livro&printsec=frontcover"><b>Entendendo Algoritmos</b></a> <sup>BR</sup>
-        <br />
-        Status: <b>Reading 📖</b>
-      </td></tr>
-<!-- READING_END -->
-          </table>
-        </div>
+        <ul align="left">
+          <!-- TABNEWS_START -->
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">Muito além do README: O que você (provavelmente) não sabia sobre documentação no GitHub</a><br/><sub>1 de dez. de 2025 • 🟢 TabNews</sub></li>
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">Utilidade publica sobre documentação e repositórios!</a><br/><sub>6 de out. de 2025 • 🟢 TabNews</sub></li>
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</a><br/><sub>2 de jan. de 2026 • 🟢 TabNews</sub></li>
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/criando-meu-primeiro-projeto-comercial-e-estou-perdido" target="_blank">Criando meu primeiro projeto comercial e estou perdido !</a><br/><sub>8 de mai. de 2025 • 🟢 TabNews</sub></li>
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/voce-sabe-aonde-se-meteu" target="_blank">Voce sabe aonde se meteu ?</a><br/><sub>4 de ago. de 2023 • 🟢 TabNews</sub></li>
+<!-- TABNEWS_END -->
+        </ul>
       </td>
       <td valign="top">
-        <i>A collection of my latest articles and thoughts on technology, documentation, and open source.</i>
-        <br>
-        <br>
         <ul align="left">
-          <li>
-            <a href="https://www.tabnews.com.br/gabrielbaiano/do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">
-              <b>Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</b>
-            </a>
-            <br>
-            <sub>2 de Janeiro, 2026 • <b>PT-BR</b></sub>
-          </li>
-          <br>
-          <li>
-            <a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">
-              <b>Muito além do README: O que você provavelmente não sabia sobre documentação no GitHub</b>
-            </a>
-            <br>
-            <sub>1 de Dezembro, 2025 • <b>PT-BR</b></sub>
-          </li>
-          <br>
-          <li>
-            <a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">
-              <b>Utilidade pública sobre documentação e repositórios</b>
-            </a>
-            <br>
-            <sub>6 de Outubro, 2025 • <b>PT-BR</b></sub>
-          </li>
+          <!-- PORTFOLIO_START -->
+<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">This book was my first step on Camus work.</a><br/><sub>18 de jan. de 2026 • <b>📸 Photo</b></sub></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Testing pixel-logo for my SaaS</a><br/><sub>15 de jan. de 2026 • <b>📸 Photo</b></sub></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426" target="_blank"># Super Busy with Project 2026</a><br/><sub>10 de jan. de 2026 • <b>💭 Thoughts</b></sub></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/leetcode/dc8e8357-1502-4d37-8e60-60d8b40f0605" target="_blank">#1161: Maximum Level Sum of a Binary Tree</a><br/><sub>6 de jan. de 2026 • <b>🧠 LeetCode</b></sub></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Hollow knight pixel art</a><br/><sub>4 de jan. de 2026 • <b>📸 Photo</b></sub></li>
+<!-- PORTFOLIO_END -->
         </ul>
       </td>
     </tr>
