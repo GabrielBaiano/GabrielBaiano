@@ -22,7 +22,7 @@
       </a>
     </td>
     <td valign="center" width="50%" align="center">
-      <img src="undefined" alt="Latest Photo" width="100%" style="border-radius: 10px;" />
+      <img src="https://vdegtlphahkkduoymzlr.supabase.co/storage/v1/object/public/images/1768723697732-a595e3cd48e38fd8c87edbd2214440e0.jpg" alt="Latest Photo" width="100%" style="border-radius: 10px;" />
       <br/>
       <sub>Latest Photo from Blog</sub>
     </td>

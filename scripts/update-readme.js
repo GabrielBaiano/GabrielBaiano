@@ -78,7 +78,7 @@ async function getLatestPhoto() {
     if (json.success && json.data && json.data.length > 0) {
       // Sort by date desc
       const sorted = json.data.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
-      return sorted[0].url;
+      return sorted[0].image_url;
     }
   } catch (e) {
     console.error('Error fetching photos:', e);
