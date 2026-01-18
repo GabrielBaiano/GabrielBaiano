@@ -121,10 +121,41 @@ async function getPortfolioUpdates() {
     })));
   }
 
-  // Sort by date desc and limit to 5
-  items = items.sort((a, b) => new Date(b.created_at) - new Date(a.created_at)).slice(0, 5);
+  // Sort by date desc
+  items = items.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-  return items.map(item => {
+  // --- Generate History File (Grouped by Month) ---
+  const grouped = {};
+  items.forEach(item => {
+    const date = new Date(item.created_at);
+    // Format: "JANEIRO 2026"
+    const monthYear = new Intl.DateTimeFormat('pt-BR', { month: 'long', year: 'numeric' })
+      .format(date)
+      .toUpperCase();
+    
+    if (!grouped[monthYear]) grouped[monthYear] = [];
+    grouped[monthYear].push(item);
+  });
+
+  let historyContent = `# 🚀 All Blog Updates\n\n`;
+  for (const [monthYear, posts] of Object.entries(grouped)) {
+    historyContent += `### ${monthYear}\n\n`;
+    posts.forEach(post => {
+      const date = formatDate(post.created_at);
+       // Determine Color for History (reuse logic or simplify)
+       let type = post.tag || post.sourceType;
+       historyContent += `- [${post.title}](${post.url}) - ${date} • **${type}**\n`;
+    });
+    historyContent += `\n`;
+  }
+  
+  fs.writeFileSync(path.join(__dirname, '..', 'BLOG_HISTORY.md'), historyContent);
+  // ------------------------------------------------
+
+  // Limit to 5 for README
+  const topItems = items.slice(0, 5);
+
+  let listHtml = topItems.map(item => {
     const date = formatDate(item.created_at);
     // Use tag if available, otherwise sourceType
     let tag = item.tag || item.sourceType;
@@ -138,6 +169,7 @@ async function getPortfolioUpdates() {
     else if (lowerTag.includes('study') || lowerTag.includes('note')) color = 'ADD8E6'; // Light Blue
     else if (lowerTag.includes('guide') || lowerTag.includes('tutorial')) color = 'FFA500'; // Orange
     else if (lowerTag.includes('photo')) color = '008000'; // Green
+    else if (lowerTag.includes('thoughts')) color = '0077b5'; // Blue
 
     // Badge
     // Encode tag for URL
@@ -146,6 +178,11 @@ async function getPortfolioUpdates() {
     
     return `<li><a href="${item.url}" target="_blank">${item.title}</a> - ${date} • ${tagBadge}</li>`;
   }).join('\n');
+
+  // Add "More" link for Blog Updates
+  listHtml += `\n<li><a href="BLOG_HISTORY.md">... Ver todos os posts antigos</a></li>`;
+
+  return listHtml;
 }
 
 function formatDate(dateString) {

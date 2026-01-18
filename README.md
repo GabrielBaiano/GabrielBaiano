@@ -23,6 +23,7 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426" target="_blank"># Super Busy with Project 2026</a> - 2026-01-10 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/leetcode/dc8e8357-1502-4d37-8e60-60d8b40f0605" target="_blank">#1161: Maximum Level Sum of a Binary Tree</a> - 2026-01-06 • <img src="https://img.shields.io/badge/LeetCode-FF69B4?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Hollow knight pixel art</a> - 2026-01-04 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
+<li><a href="BLOG_HISTORY.md">... Ver todos os posts antigos</a></li>
 <!-- PORTFOLIO_END -->
 </ul>
 
