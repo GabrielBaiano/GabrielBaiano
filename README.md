@@ -14,18 +14,7 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
 
 </div>
 
-### 📝 Recent Blog (TabNews)
-
-<ul>
-<!-- TABNEWS_START -->
-<li><a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">Muito além do README: O que você (provavelmente) não sabia sobre documentação no GitHub</a> - 2025-12-01 <img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/></li>
-<li><a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">Utilidade publica sobre documentação e repositórios!</a> - 2025-10-07 <img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/></li>
-<li><a href="https://www.tabnews.com.br/gabrielbaiano/do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</a> - 2026-01-02 <img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/></li>
-<li><a href="TABNEWS_HISTORY.md">... Ver todos os posts antigos</a></li>
-<!-- TABNEWS_END -->
-</ul>
-
-### 🚀 Portfolio Updates
+### � Blog Updates
 
 <ul>
 <!-- PORTFOLIO_START -->
@@ -37,11 +26,16 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
 <!-- PORTFOLIO_END -->
 </ul>
 
-<br/>
+### � TabNews
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielBaiano/personal_bloodborn_svg/main/bloodborne_animated_hq.svg" alt="Bloodborne Stats" width="800" />
-</div>
+<ul>
+<!-- TABNEWS_START -->
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">Muito além do README: O que você (provavelmente) não sabia sobre documentação no GitHub</a> - 2025-12-01 <img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/></li>
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">Utilidade publica sobre documentação e repositórios!</a> - 2025-10-07 <img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/></li>
+<li><a href="https://www.tabnews.com.br/gabrielbaiano/do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</a> - 2026-01-02 <img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/></li>
+<li><a href="TABNEWS_HISTORY.md">... Ver todos os posts antigos</a></li>
+<!-- TABNEWS_END -->
+</ul>
 
 <br/>
 
