@@ -4,7 +4,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2>Hi there, I'm Gabriel 👋</h2>
-      <p>This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft.</p>
+      <p>Currently working as a researcher and focusing on my master's degree. In my free time, I focus on personal projects and exploring the entrepreneurial world with a company and a micro SaaS.</p>
       <br/>
       <a href="https://a-new-type-portifolio.vercel.app/">
         <img src="https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss" height="30" />
