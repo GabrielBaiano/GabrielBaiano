@@ -67,6 +67,13 @@ async function generateHeader() {
       <a href="mailto:gabrielngama@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
       </a>
+      <br/>
+      <br/>
+      <h3>🧩 Hobbies</h3>
+      <p>
+        🥋 <b>Jiu-Jitsu</b> &nbsp;|&nbsp; 📚 <b>Reading</b> &nbsp;|&nbsp; 🎮 <b>Video Games</b> &nbsp;|&nbsp; 🎵 <b>Music</b>
+      </p>
+      <img src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="center" width="50%" align="center">
       <img src="${photoUrl}" alt="Latest Photo" width="100%" style="border-radius: 10px;" />
