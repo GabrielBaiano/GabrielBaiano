@@ -48,3 +48,15 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
 [awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [Homepage](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://badgen.net/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-readme-templates.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-readme-templates)
 
 </details>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h3>Special thanks to</h3>
+  <br/>
+  <img src="image.png" alt="YellowHood Agency" width="150" />
+  <br/>
+  <a href="https://www.yellowhood.com.br">YellowHood Agency</a>
+</div>
+
