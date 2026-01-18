@@ -1,18 +1,35 @@
+<!-- HEADER_START -->
 
-<h1 align="center">Hi there, I'm Gabriel 👋</h1>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>Hi there, I'm Gabriel 👋</h2>
+      <p>This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft.</p>
+      <br/>
+      <a href="https://a-new-type-portifolio.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss" height="30" />
+      </a>
+      <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-660875189/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+      </a>
+      <br/>
+      <br/>
+      <a href="https://x.com/uMagicalJake">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
+      </a>
+      <a href="mailto:gabrielngama@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+      </a>
+    </td>
+    <td valign="center" width="50%" align="center">
+      <img src="undefined" alt="Latest Photo" width="100%" style="border-radius: 10px;" />
+      <br/>
+      <sub>Latest Photo from Blog</sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-[![My Blog](https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss)](https://a-new-type-portifolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nascimento-gama-660875189/)
-
-<br/>
-
-_"This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft."_
-
-<br/>
-
-</div>
+<!-- HEADER_END -->
 
 ### Blog Updates
 

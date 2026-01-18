@@ -5,9 +5,16 @@ async function main() {
   try {
     const tabNewsContent = await getTabNews();
     const portfolioContent = await getPortfolioUpdates();
+    const headerContent = await generateHeader();
 
     const readmePath = path.join(__dirname, '..', 'README.md');
     let readme = fs.readFileSync(readmePath, 'utf8');
+
+    // Update Header
+    readme = readme.replace(
+      /<!-- HEADER_START -->[\s\S]*?<!-- HEADER_END -->/,
+      `<!-- HEADER_START -->\n${headerContent}\n<!-- HEADER_END -->`
+    );
 
     // Update TabNews section
     readme = readme.replace(
@@ -27,6 +34,57 @@ async function main() {
     console.error('Error updating README:', error);
     process.exit(1);
   }
+}
+
+async function generateHeader() {
+  const photoUrl = await getLatestPhoto();
+  
+  return `
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>Hi there, I'm Gabriel 👋</h2>
+      <p>This place exists between dreams and code. Here, I shape ideas, hunt problems, and leave traces of my craft.</p>
+      <br/>
+      <a href="https://a-new-type-portifolio.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss" height="30" />
+      </a>
+      <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-660875189/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+      </a>
+      <br/>
+      <br/>
+      <a href="https://x.com/uMagicalJake">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
+      </a>
+      <a href="mailto:gabrielngama@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+      </a>
+    </td>
+    <td valign="center" width="50%" align="center">
+      <img src="${photoUrl}" alt="Latest Photo" width="100%" style="border-radius: 10px;" />
+      <br/>
+      <sub>Latest Photo from Blog</sub>
+    </td>
+  </tr>
+</table>
+`;
+}
+
+async function getLatestPhoto() {
+  try {
+    const res = await fetch('https://a-new-type-portifolio.vercel.app/api/photos');
+    const json = await res.json();
+    if (json.success && json.data && json.data.length > 0) {
+      // Sort by date desc
+      const sorted = json.data.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+      return sorted[0].url;
+    }
+  } catch (e) {
+    console.error('Error fetching photos:', e);
+  }
+  // Fallback if no photo found or error
+  return 'https://via.placeholder.com/400x300?text=No+Photo+Found';
 }
 
 async function getTabNews() {
