@@ -51,9 +51,8 @@ async function getTabNews() {
     const date = formatDate(post.published_at);
     const isNew = isRecent(post.published_at);
     const badge = isNew ? ' <img src="https://img.shields.io/badge/New-red?style=flat-square" height="15"/>' : '';
-    // TabNews Badge (Green default for generic blog/news)
-    const tagBadge = `<img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/>`;
-    return `<li><a href="https://www.tabnews.com.br/${post.owner_username}/${post.slug}" target="_blank">${post.title}</a> - ${date} ${tagBadge}${badge}</li>`;
+    // TabNews Badge removed as requested
+    return `<li><a href="https://www.tabnews.com.br/${post.owner_username}/${post.slug}" target="_blank">${post.title}</a> - ${date} ${badge}</li>`;
   }).join('\n');
 
   // Add "More" link
