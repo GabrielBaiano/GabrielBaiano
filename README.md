@@ -14,7 +14,7 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
 
 </div>
 
-### � Blog Updates
+### Blog Updates
 
 <ul>
 <!-- PORTFOLIO_START -->
@@ -26,7 +26,7 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
 <!-- PORTFOLIO_END -->
 </ul>
 
-### � TabNews
+### TabNews
 
 <ul>
 <!-- TABNEWS_START -->
@@ -59,4 +59,3 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
   <br/>
   <a href="https://www.yellowhood.com.br">YellowHood Agency</a>
 </div>
-
