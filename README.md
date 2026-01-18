@@ -59,7 +59,7 @@
 <!-- TABNEWS_END -->
 </ul>
 
-### 📚 Books I'm Reading
+### Books I'm Reading
 
 <!-- BOOKS_START -->
 
