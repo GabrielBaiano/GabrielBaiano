@@ -186,8 +186,8 @@ async function getPortfolioUpdates() {
   const grouped = {};
   items.forEach(item => {
     const date = new Date(item.created_at);
-    // Format: "JANEIRO 2026"
-    const monthYear = new Intl.DateTimeFormat('pt-BR', { month: 'long', year: 'numeric' })
+    // Format: "JANUARY 2026"
+    const monthYear = new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' })
       .format(date)
       .toUpperCase();
     
