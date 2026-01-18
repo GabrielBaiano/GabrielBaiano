@@ -273,29 +273,14 @@ async function getBooks() {
     const readmeRes = await fetch('https://raw.githubusercontent.com/GabrielBaiano/personal-library/main/README.md');
     const readmeText = await readmeRes.text();
     
-    // Extract "2. What i'm reading ?" block
-    // Simplest regex: match "What i'm reading" -> capture capture group until next "##"
-    const readingMatch = readmeText.match(/What i'm reading[\s\S]*?\n([\s\S]*?)##/);
-    if (readingMatch && readingMatch[1]) {
-      const readingBlock = readingMatch[1];
-      // Extract links: [Title](Link)
-      // Note: We need to handle headers or extra text. We look for lines starting with [ or text.
-      // The snippet showed [Title](Url)
-      const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
-      let match;
-      const readingList = [];
-      while ((match = linkRegex.exec(readingBlock)) !== null) {
-        // Exclude other formatting links if any, but simplistic check works for now
-        readingList.push({ title: match[1], url: match[2] });
-      }
-
-      if (readingList.length > 0) {
-        currentlyReadingHtml = '<ul>\n' + readingList.map(book => 
-            `<li><a href="${book.url}" target="_blank">${book.title}</a></li>`
-        ).join('\n') + '\n</ul>';
-      } else {
-         currentlyReadingHtml = '<p>Not reading anything public right now.</p>';
-      }
+    // Extract the "Reading" table
+    const tableMatch = readmeText.match(/<table>[\s\S]*?Reading[\s\S]*?<\/table>/);
+    if (tableMatch) {
+      currentlyReadingHtml = tableMatch[0];
+      // Wrap in a div to ensure centering if needed, though center aligns inside the table cell often work better
+      currentlyReadingHtml = `<div align="center">\n${currentlyReadingHtml}\n</div>`;
+    } else {
+       currentlyReadingHtml = '<p align="center">Not reading anything public right now.</p>';
     }
 
     // 2. Get Books Read Count from API (Folder count)
