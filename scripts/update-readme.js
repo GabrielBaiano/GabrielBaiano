@@ -277,10 +277,9 @@ async function getBooks() {
     const tableMatch = readmeText.match(/<table>[\s\S]*?Reading[\s\S]*?<\/table>/);
     if (tableMatch) {
       currentlyReadingHtml = tableMatch[0];
-      // Wrap in a div to ensure centering if needed, though center aligns inside the table cell often work better
-      currentlyReadingHtml = `<div align="center">\n${currentlyReadingHtml}\n</div>`;
+      // "Decentralize" (move to left/standard flow) by removing the center wrapper
     } else {
-       currentlyReadingHtml = '<p align="center">Not reading anything public right now.</p>';
+       currentlyReadingHtml = '<p>Not reading anything public right now.</p>';
     }
 
     // 2. Get Books Read Count from API (Folder count)
@@ -288,8 +287,6 @@ async function getBooks() {
     const apiRes = await fetch(`https://api.github.com/repos/GabrielBaiano/personal-library/contents/${currentYear}`);
     if (apiRes.ok) {
         const files = await apiRes.json();
-        // Count files (exclude README if present, though likely all are book folders/files)
-        // If it returns an array of file objects
         if (Array.isArray(files)) {
            booksReadCount = files.length;
         }
@@ -301,6 +298,10 @@ async function getBooks() {
   }
 
   return `
+<p>
+  This is part of my <b><a href="https://github.com/GabrielBaiano/personal-library">Personal Library</a></b> project — a dedicated space where I organize my readings, share reflections, and build a consistent reading habit.
+</p>
+
 ${currentlyReadingHtml}
 
 <br/>

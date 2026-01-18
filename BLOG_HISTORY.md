@@ -2,6 +2,7 @@
 
 ### JANUARY 2026
 
+- [From St. Augustine to Personal Blogging: How I Found My Own Catharsis](https://a-new-type-portifolio.vercel.app/#/detail/feed/from-st-augustine-to-personal-blogging-how-i-found-my-own-catharsis-3492) - 2026-01-18 • **Thoughts**
 - [This book was my first step on Camus work.](https://a-new-type-portifolio.vercel.app/#/photos) - 2026-01-18 • **Photo**
 - [Testing pixel-logo for my SaaS](https://a-new-type-portifolio.vercel.app/#/photos) - 2026-01-15 • **Photo**
 - [# Super Busy with Project 2026](https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426) - 2026-01-10 • **Thoughts**

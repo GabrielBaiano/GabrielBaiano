@@ -35,11 +35,11 @@
 
 <ul>
 <!-- PORTFOLIO_START -->
+<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/from-st-augustine-to-personal-blogging-how-i-found-my-own-catharsis-3492" target="_blank">From St. Augustine to Personal Blogging: How I Found My Own Catharsis</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">This book was my first step on Camus work.</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Testing pixel-logo for my SaaS</a> - 2026-01-15 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426" target="_blank"># Super Busy with Project 2026</a> - 2026-01-10 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/leetcode/dc8e8357-1502-4d37-8e60-60d8b40f0605" target="_blank">#1161: Maximum Level Sum of a Binary Tree</a> - 2026-01-06 • <img src="https://img.shields.io/badge/LeetCode-FF69B4?style=flat-square" height="20"/></li>
-<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Hollow knight pixel art</a> - 2026-01-04 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <br/>
 <li><a href="BLOG_HISTORY.md">... See all old posts</a></li>
 <!-- PORTFOLIO_END -->
@@ -63,7 +63,10 @@
 
 <!-- BOOKS_START -->
 
-<div align="center">
+<p>
+  This is part of my <b><a href="https://github.com/GabrielBaiano/personal-library">Personal Library</a></b> project — a dedicated space where I organize my readings, share reflections, and build a consistent reading habit.
+</p>
+
 <table>
     <tr>
       <th colspan="3">Reading</th>
@@ -106,7 +109,6 @@
     </tr>
 <!-- READING_END -->
   </table>
-</div>
 
 <br/>
 
