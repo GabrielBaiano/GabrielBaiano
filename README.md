@@ -59,6 +59,32 @@
 <!-- TABNEWS_END -->
 </ul>
 
+### 📚 Books I'm Reading
+
+<!-- BOOKS_START -->
+
+
+
+<br/>
+
+**2026 Reading Progress:** 2 books read so far 🏁
+<br/>
+<a href="https://github.com/GabrielBaiano/personal-library">Check out my specific notes here!</a>
+
+<!-- BOOKS_END -->
+
+### 🧩 Hobbies
+
+<div align="center">
+
+  🥋 **Jiu-Jitsu** &nbsp;|&nbsp; 📚 **Reading** &nbsp;|&nbsp; 🎮 **Video Games** &nbsp;|&nbsp; 🎵 **Music**
+
+  <br/>
+  <br/>
+  <img src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif" width="100%" style="border-radius: 10px;" />
+
+</div>
+
 <br/>
 
 <details>

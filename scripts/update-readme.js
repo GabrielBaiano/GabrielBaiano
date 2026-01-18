@@ -6,6 +6,7 @@ async function main() {
     const tabNewsContent = await getTabNews();
     const portfolioContent = await getPortfolioUpdates();
     const headerContent = await generateHeader();
+    const booksContent = await getBooks();
 
     const readmePath = path.join(__dirname, '..', 'README.md');
     let readme = fs.readFileSync(readmePath, 'utf8');
@@ -14,6 +15,12 @@ async function main() {
     readme = readme.replace(
       /<!-- HEADER_START -->[\s\S]*?<!-- HEADER_END -->/,
       `<!-- HEADER_START -->\n${headerContent}\n<!-- HEADER_END -->`
+    );
+
+    // Update Books section
+    readme = readme.replace(
+      /<!-- BOOKS_START -->[\s\S]*?<!-- BOOKS_END -->/,
+      `<!-- BOOKS_START -->\n${booksContent}\n<!-- BOOKS_END -->`
     );
 
     // Update TabNews section
@@ -256,4 +263,68 @@ function isRecent(dateString) {
   return diffDays <= 14; 
 }
 
+async function getBooks() {
+  let currentlyReadingHtml = '';
+  let booksReadCount = 0;
+  const currentYear = new Date().getFullYear();
+
+  try {
+    // 1. Get Currently Reading from README
+    const readmeRes = await fetch('https://raw.githubusercontent.com/GabrielBaiano/personal-library/main/README.md');
+    const readmeText = await readmeRes.text();
+    
+    // Extract "2. What i'm reading ?" block
+    // Simplest regex: match "What i'm reading" -> capture capture group until next "##"
+    const readingMatch = readmeText.match(/What i'm reading[\s\S]*?\n([\s\S]*?)##/);
+    if (readingMatch && readingMatch[1]) {
+      const readingBlock = readingMatch[1];
+      // Extract links: [Title](Link)
+      // Note: We need to handle headers or extra text. We look for lines starting with [ or text.
+      // The snippet showed [Title](Url)
+      const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
+      let match;
+      const readingList = [];
+      while ((match = linkRegex.exec(readingBlock)) !== null) {
+        // Exclude other formatting links if any, but simplistic check works for now
+        readingList.push({ title: match[1], url: match[2] });
+      }
+
+      if (readingList.length > 0) {
+        currentlyReadingHtml = '<ul>\n' + readingList.map(book => 
+            `<li><a href="${book.url}" target="_blank">${book.title}</a></li>`
+        ).join('\n') + '\n</ul>';
+      } else {
+         currentlyReadingHtml = '<p>Not reading anything public right now.</p>';
+      }
+    }
+
+    // 2. Get Books Read Count from API (Folder count)
+    // Using GitHub API to list content of the year folder
+    const apiRes = await fetch(`https://api.github.com/repos/GabrielBaiano/personal-library/contents/${currentYear}`);
+    if (apiRes.ok) {
+        const files = await apiRes.json();
+        // Count files (exclude README if present, though likely all are book folders/files)
+        // If it returns an array of file objects
+        if (Array.isArray(files)) {
+           booksReadCount = files.length;
+        }
+    }
+
+  } catch (error) {
+    console.error('Error fetching books:', error);
+    currentlyReadingHtml = 'Could not load books data.';
+  }
+
+  return `
+${currentlyReadingHtml}
+
+<br/>
+
+**${currentYear} Reading Progress:** ${booksReadCount} books read so far 🏁
+<br/>
+<a href="https://github.com/GabrielBaiano/personal-library">Check out my specific notes here!</a>
+`;
+}
+
+// Run main
 main();
