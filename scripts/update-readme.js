@@ -56,7 +56,7 @@ async function getTabNews() {
   }).join('\n');
 
   // Add "More" link
-  listHtml += `\n<li><a href="TABNEWS_HISTORY.md">... Ver todos os posts antigos</a></li>`;
+  listHtml += `\n<br/>\n<li><a href="TABNEWS_HISTORY.md">... See all old posts</a></li>`;
   
   return listHtml;
 }
@@ -180,7 +180,7 @@ async function getPortfolioUpdates() {
   }).join('\n');
 
   // Add "More" link for Blog Updates
-  listHtml += `\n<li><a href="BLOG_HISTORY.md">... Ver todos os posts antigos</a></li>`;
+  listHtml += `\n<br/>\n<li><a href="BLOG_HISTORY.md">... See all old posts</a></li>`;
 
   return listHtml;
 }

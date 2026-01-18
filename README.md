@@ -23,18 +23,22 @@ _"This place exists between dreams and code. Here, I shape ideas, hunt problems,
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426" target="_blank"># Super Busy with Project 2026</a> - 2026-01-10 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/leetcode/dc8e8357-1502-4d37-8e60-60d8b40f0605" target="_blank">#1161: Maximum Level Sum of a Binary Tree</a> - 2026-01-06 • <img src="https://img.shields.io/badge/LeetCode-FF69B4?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Hollow knight pixel art</a> - 2026-01-04 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
-<li><a href="BLOG_HISTORY.md">... Ver todos os posts antigos</a></li>
+<br/>
+<li><a href="BLOG_HISTORY.md">... See all old posts</a></li>
 <!-- PORTFOLIO_END -->
 </ul>
 
 ### TabNews
+
+> ⚠️ **Disclaimer:** These posts are in Portuguese. English versions are available on my [personal blog](https://a-new-type-portifolio.vercel.app/)!
 
 <ul>
 <!-- TABNEWS_START -->
 <li><a href="https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">Muito além do README: O que você (provavelmente) não sabia sobre documentação no GitHub</a> - 2025-12-01 </li>
 <li><a href="https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">Utilidade publica sobre documentação e repositórios!</a> - 2025-10-07 </li>
 <li><a href="https://www.tabnews.com.br/gabrielbaiano/do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</a> - 2026-01-02 </li>
-<li><a href="TABNEWS_HISTORY.md">... Ver todos os posts antigos</a></li>
+<br/>
+<li><a href="TABNEWS_HISTORY.md">... See all old posts</a></li>
 <!-- TABNEWS_END -->
 </ul>
 
