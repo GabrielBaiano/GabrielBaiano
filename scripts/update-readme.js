@@ -41,7 +41,7 @@ async function getTabNews() {
     const date = formatDate(post.published_at);
     const isNew = isRecent(post.published_at);
     const badge = isNew ? ' <img src="https://img.shields.io/badge/New-red?style=flat-square" height="15"/>' : '';
-    return `<li><a href="https://www.tabnews.com.br/${post.owner_username}/${post.slug}" target="_blank">${post.title}</a><br/><sub>${date} • 🟢 TabNews${badge}</sub></li>`;
+    return `<li><a href="https://www.tabnews.com.br/${post.owner_username}/${post.slug}" target="_blank">${post.title}</a> - ${date} ${badge}</li>`;
   }).join('\n');
 }
 
@@ -115,13 +115,13 @@ async function getPortfolioUpdates() {
     // Map specific tags to badges/colors if needed, or just text
     const tagBadge = `<b>${item.emoji} ${tag}</b>`; 
     
-    return `<li><a href="${item.url}" target="_blank">${item.title}</a><br/><sub>${date} • ${tagBadge}</sub></li>`;
+    return `<li><a href="${item.url}" target="_blank">${item.title}</a> - ${date} • ${tagBadge}</li>`;
   }).join('\n');
 }
 
 function formatDate(dateString) {
   const date = new Date(dateString);
-  return new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'short', year: 'numeric' }).format(date);
+  return date.toISOString().split('T')[0];
 }
 
 function isRecent(dateString) {
