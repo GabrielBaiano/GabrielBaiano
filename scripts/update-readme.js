@@ -33,16 +33,33 @@ async function getTabNews() {
   const response = await fetch('https://www.tabnews.com.br/api/v1/contents/gabrielbaiano');
   const data = await response.json();
 
-  const posts = data
-    .filter(item => item.parent_id === null && item.title) // Top level posts only
-    .slice(0, 5); // Limit to 5
+  const allPosts = data
+    .filter(item => item.parent_id === null && item.title); // Top level posts only
 
-  return posts.map(post => {
+  // Generate History File
+  const historyContent = `# 📝 All TabNews Posts\n\n` + allPosts.map(post => {
+    const date = formatDate(post.published_at);
+    return `- [${post.title}](https://www.tabnews.com.br/${post.owner_username}/${post.slug}) - ${date}`;
+  }).join('\n');
+  
+  fs.writeFileSync(path.join(__dirname, '..', 'TABNEWS_HISTORY.md'), historyContent);
+
+  // Return Top 3 for README
+  const topPosts = allPosts.slice(0, 3);
+  
+  let listHtml = topPosts.map(post => {
     const date = formatDate(post.published_at);
     const isNew = isRecent(post.published_at);
     const badge = isNew ? ' <img src="https://img.shields.io/badge/New-red?style=flat-square" height="15"/>' : '';
-    return `<li><a href="https://www.tabnews.com.br/${post.owner_username}/${post.slug}" target="_blank">${post.title}</a> - ${date} ${badge}</li>`;
+    // TabNews Badge (Green default for generic blog/news)
+    const tagBadge = `<img src="https://img.shields.io/badge/TabNews-008000?style=flat-square&logo=rss&logoColor=white" height="20"/>`;
+    return `<li><a href="https://www.tabnews.com.br/${post.owner_username}/${post.slug}" target="_blank">${post.title}</a> - ${date} ${tagBadge}${badge}</li>`;
   }).join('\n');
+
+  // Add "More" link
+  listHtml += `\n<li><a href="TABNEWS_HISTORY.md">... Ver todos os posts antigos</a></li>`;
+  
+  return listHtml;
 }
 
 async function getPortfolioUpdates() {
@@ -105,15 +122,28 @@ async function getPortfolioUpdates() {
     })));
   }
 
-  // Sort by date desc
+  // Sort by date desc and limit to 5
   items = items.sort((a, b) => new Date(b.created_at) - new Date(a.created_at)).slice(0, 5);
 
   return items.map(item => {
     const date = formatDate(item.created_at);
     // Use tag if available, otherwise sourceType
     let tag = item.tag || item.sourceType;
-    // Map specific tags to badges/colors if needed, or just text
-    const tagBadge = `<b>${item.emoji} ${tag}</b>`; 
+    
+    // Determine Color
+    let color = '0077b5'; // Default Blue
+    const lowerTag = tag.toLowerCase();
+    
+    if (lowerTag.includes('leetcode')) color = 'FF69B4'; // Pink
+    else if (lowerTag.includes('review') || lowerTag.includes('book')) color = '800080'; // Purple
+    else if (lowerTag.includes('study') || lowerTag.includes('note')) color = 'ADD8E6'; // Light Blue
+    else if (lowerTag.includes('guide') || lowerTag.includes('tutorial')) color = 'FFA500'; // Orange
+    else if (lowerTag.includes('photo')) color = '008000'; // Green
+
+    // Badge
+    // Encode tag for URL
+    const safeTag = encodeURIComponent(tag);
+    const tagBadge = `<img src="https://img.shields.io/badge/${safeTag}-${color}?style=flat-square" height="20"/>`;
     
     return `<li><a href="${item.url}" target="_blank">${item.title}</a> - ${date} • ${tagBadge}</li>`;
   }).join('\n');
