@@ -8,7 +8,9 @@
       <br/>
       <br/>
       <br/>
-      👉 <a href="https://a-new-type-portifolio.vercel.app/">
+      <br/>
+      <br/>
+      👉&nbsp;<a href="https://a-new-type-portifolio.vercel.app/">
         <img src="https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss&logoColor=white" height="30" />
       </a>
       <br/>
@@ -16,19 +18,26 @@
       <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-5b0b30185/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" />
       </a>
+      &nbsp;
       <a href="https://x.com/uMagicalJake">
         <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" height="30" />
       </a>
+      &nbsp;
       <a href="mailto:gabrielngama@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" />
       </a>
       <br/>
       <br/>
-      <b>Stack > </b>
+      <img src="https://img.shields.io/badge/Stack_%3E-black?style=flat-square&color=20232a" height="30" />
+      &nbsp;
       <img src="https://img.shields.io/badge/TypeScript-007fba?style=flat-square&logo=typescript&logoColor=white" height="30" title="TypeScript"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30" title="Docker"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="30" title="Next.js"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="30" title="Tailwind CSS"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" title="Python"/>
     </td>
     <td valign="center" width="50%" align="center">
