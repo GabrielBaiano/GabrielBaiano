@@ -12,6 +12,8 @@
       </a>
       <br/>
       <br/>
+      <img src="https://img.shields.io/badge/Socials_%3E-black?style=flat-square&color=20232a" height="30" />
+      &nbsp;
       <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-5b0b30185/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" />
       </a>
