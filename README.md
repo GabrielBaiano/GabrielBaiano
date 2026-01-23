@@ -6,22 +6,32 @@
       <h2>Hi there, I'm Gabriel 👋</h2>
       <p>Currently working as a <b>Researcher</b> and focusing on my <b>Master's degree</b>. In my free time, I focus on <b>personal projects</b> and exploring the entrepreneurial world with a <b>company</b> and a <b>micro SaaS</b>.</p>
       <br/>
-      <a href="https://a-new-type-portifolio.vercel.app/">
-        <img src="https://img.shields.io/badge/Blog-2ea44f?style=flat-square&logo=rss&logoColor=white" height="30" />
+      <br/>
+      
+      <!-- Blog -->
+      👉 <a href="https://a-new-type-portifolio.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss&logoColor=white" height="30" />
       </a>
+      
+      <br/>
+      <br/>
+
+      <!-- Socials -->
       <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-5b0b30185/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" />
       </a>
-      <br/>
-      <br/>
       <a href="https://x.com/uMagicalJake">
         <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" height="30" />
       </a>
       <a href="mailto:gabrielngama@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" />
       </a>
+      
       <br/>
       <br/>
+
+      <!-- Stack -->
+      <b>Stack > </b>
       <img src="https://img.shields.io/badge/TypeScript-007fba?style=flat-square&logo=typescript&logoColor=white" height="30" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="30" />
