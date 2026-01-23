@@ -7,9 +7,6 @@
       <p>Currently working as a <b>Researcher</b> and focusing on my <b>Master's degree</b>. In my free time, I focus on <b>personal projects</b> and exploring the entrepreneurial world with a <b>company</b> and a <b>micro SaaS</b>.</p>
       <br/>
       <br/>
-      <br/>
-      <br/>
-      <br/>
       👉&nbsp;<a href="https://a-new-type-portifolio.vercel.app/">
         <img src="https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss&logoColor=white" height="30" />
       </a>
