@@ -10,6 +10,7 @@ async function main() {
 
     const readmePath = path.join(__dirname, '..', 'README.md');
     let readme = fs.readFileSync(readmePath, 'utf8');
+    const originalReadme = readme;
 
     // Update Header
     readme = readme.replace(
@@ -30,10 +31,24 @@ async function main() {
     );
 
     // Update Portfolio section
+    console.log('Generating Portfolio Content...');
+    const oldReadmeLen = readme.length;
     readme = readme.replace(
       /<!-- PORTFOLIO_START -->[\s\S]*?<!-- PORTFOLIO_END -->/,
       `<!-- PORTFOLIO_START -->\n${portfolioContent}\n<!-- PORTFOLIO_END -->`
     );
+
+    if (readme === originalReadme) {
+      console.warn('WARNING: Portfolio section was NOT updated (content same).');
+      const regex = /<!-- PORTFOLIO_START -->[\s\S]*?<!-- PORTFOLIO_END -->/;
+      const match = readme.match(regex);
+      if (match) {
+        console.log('EXISTING BLOCK (first 200 chars):', match[0].substring(0, 200));
+        console.log('NEW ENTRY (first 200 chars):', `<!-- PORTFOLIO_START -->\n${portfolioContent}\n<!-- PORTFOLIO_END -->`.substring(0, 200));
+      }
+    } else {
+      console.log('Portfolio section updated. New items inserted.');
+    }
 
     fs.writeFileSync(readmePath, readme);
     console.log('README.md updated successfully!');
@@ -45,7 +60,7 @@ async function main() {
 
 async function generateHeader() {
   const photoUrl = await getLatestPhoto();
-  
+
   return `
 <table>
   <tr>
@@ -106,12 +121,12 @@ async function getTabNews() {
     const date = formatDate(post.published_at);
     return `- [${post.title}](https://www.tabnews.com.br/${post.owner_username}/${post.slug}) - ${date}`;
   }).join('\n');
-  
+
   fs.writeFileSync(path.join(__dirname, '..', 'TABNEWS_HISTORY.md'), historyContent);
 
   // Return Top 3 for README
   const topPosts = allPosts.slice(0, 3);
-  
+
   let listHtml = topPosts.map(post => {
     const date = formatDate(post.published_at);
     const isNew = isRecent(post.published_at);
@@ -122,7 +137,7 @@ async function getTabNews() {
 
   // Add "More" link
   listHtml += `\n<br/>\n<li><a href="TABNEWS_HISTORY.md">... See all old posts</a></li>`;
-  
+
   return listHtml;
 }
 
@@ -197,7 +212,7 @@ async function getPortfolioUpdates() {
     const monthYear = new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' })
       .format(date)
       .toUpperCase();
-    
+
     if (!grouped[monthYear]) grouped[monthYear] = [];
     grouped[monthYear].push(item);
   });
@@ -207,28 +222,30 @@ async function getPortfolioUpdates() {
     historyContent += `### ${monthYear}\n\n`;
     posts.forEach(post => {
       const date = formatDate(post.created_at);
-       // Determine Color for History (reuse logic or simplify)
-       let type = post.tag || post.sourceType;
-       historyContent += `- [${post.title}](${post.url}) - ${date} • **${type}**\n`;
+      // Determine Color for History (reuse logic or simplify)
+      let type = post.tag || post.sourceType;
+      historyContent += `- [${post.title}](${post.url}) - ${date} • **${type}**\n`;
     });
     historyContent += `\n`;
   }
-  
+
   fs.writeFileSync(path.join(__dirname, '..', 'BLOG_HISTORY.md'), historyContent);
   // ------------------------------------------------
 
   // Limit to 5 for README
   const topItems = items.slice(0, 5);
+  console.log('Top 5 items to carry to README:');
+  topItems.forEach((item, i) => console.log(`${i + 1}. ${item.title} (${item.created_at})`));
 
   let listHtml = topItems.map(item => {
     const date = formatDate(item.created_at);
     // Use tag if available, otherwise sourceType
     let tag = item.tag || item.sourceType;
-    
+
     // Determine Color
     let color = '0077b5'; // Default Blue
     const lowerTag = tag.toLowerCase();
-    
+
     if (lowerTag.includes('leetcode')) color = 'FF69B4'; // Pink
     else if (lowerTag.includes('review') || lowerTag.includes('book')) color = '800080'; // Purple
     else if (lowerTag.includes('study') || lowerTag.includes('note')) color = 'ADD8E6'; // Light Blue
@@ -240,7 +257,7 @@ async function getPortfolioUpdates() {
     // Encode tag for URL
     const safeTag = encodeURIComponent(tag);
     const tagBadge = `<img src="https://img.shields.io/badge/${safeTag}-${color}?style=flat-square" height="20"/>`;
-    
+
     return `<li><a href="${item.url}" target="_blank">${item.title}</a> - ${date} • ${tagBadge}</li>`;
   }).join('\n');
 
@@ -260,7 +277,7 @@ function isRecent(dateString) {
   const now = new Date();
   const diffTime = Math.abs(now - date);
   const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-  return diffDays <= 14; 
+  return diffDays <= 14;
 }
 
 async function getBooks() {
@@ -272,24 +289,24 @@ async function getBooks() {
     // 1. Get Currently Reading from README
     const readmeRes = await fetch('https://raw.githubusercontent.com/GabrielBaiano/personal-library/main/README.md');
     const readmeText = await readmeRes.text();
-    
+
     // Extract the "Reading" table
     const tableMatch = readmeText.match(/<table>[\s\S]*?Reading[\s\S]*?<\/table>/);
     if (tableMatch) {
       currentlyReadingHtml = tableMatch[0];
       // "Decentralize" (move to left/standard flow) by removing the center wrapper
     } else {
-       currentlyReadingHtml = '<p>Not reading anything public right now.</p>';
+      currentlyReadingHtml = '<p>Not reading anything public right now.</p>';
     }
 
     // 2. Get Books Read Count from API (Folder count)
     // Using GitHub API to list content of the year folder
     const apiRes = await fetch(`https://api.github.com/repos/GabrielBaiano/personal-library/contents/${currentYear}`);
     if (apiRes.ok) {
-        const files = await apiRes.json();
-        if (Array.isArray(files)) {
-           booksReadCount = files.length;
-        }
+      const files = await apiRes.json();
+      if (Array.isArray(files)) {
+        booksReadCount = files.length;
+      }
     }
 
   } catch (error) {
