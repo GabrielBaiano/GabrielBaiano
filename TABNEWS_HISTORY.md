@@ -3,6 +3,7 @@
 - [Muito além do README: O que você (provavelmente) não sabia sobre documentação no GitHub](https://www.tabnews.com.br/gabrielbaiano/muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github) - 2025-12-01
 - [Utilidade publica sobre documentação e repositórios!](https://www.tabnews.com.br/gabrielbaiano/utilidade-publica-sobre-documentacao-e-repositorios) - 2025-10-07
 - [Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando](https://www.tabnews.com.br/gabrielbaiano/do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando) - 2026-01-02
+- [O hype do "Build in Public" criou uma geração de SaaS medíocres!](https://www.tabnews.com.br/gabrielbaiano/o-hype-do-build-in-public-criou-uma-geracao-de-saas-mediocres) - 2026-02-13
 - [Criando meu primeiro projeto comercial e estou perdido !](https://www.tabnews.com.br/gabrielbaiano/criando-meu-primeiro-projeto-comercial-e-estou-perdido) - 2025-05-08
 - [Voce sabe aonde se meteu ?](https://www.tabnews.com.br/gabrielbaiano/voce-sabe-aonde-se-meteu) - 2023-08-04
 - [Criando um micro SaaS que aumenta suas chances de ser chamado pra uma vaga — o que vocês acham?](https://www.tabnews.com.br/gabrielbaiano/criando-um-micro-saas-que-aumenta-suas-chances-de-ser-chamado-pra-uma-vaga-o-que-voces-acham) - 2025-10-13

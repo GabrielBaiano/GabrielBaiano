@@ -1,5 +1,9 @@
 # 🚀 All Blog Updates
 
+### FEBRUARY 2026
+
+- [Beyond the Hype: Why I’m Choosing Public Utility Over Quick Profits](https://a-new-type-portifolio.vercel.app/#/detail/feed/-beyond-the-hype-why-im-choosing-public-utility-over-quick-profits-9018) - 2026-02-13 • **Thoughts**
+
 ### JANUARY 2026
 
 - [The sketchg for my background auto-drawing animation!](https://a-new-type-portifolio.vercel.app/#/photos) - 2026-01-23 • **Photo**

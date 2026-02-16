@@ -35,11 +35,11 @@
 
 <ul>
 <!-- PORTFOLIO_START -->
+<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-beyond-the-hype-why-im-choosing-public-utility-over-quick-profits-9018" target="_blank">Beyond the Hype: Why I’m Choosing Public Utility Over Quick Profits</a> - 2026-02-13 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">The sketchg for my background auto-drawing animation!</a> - 2026-01-23 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/from-st-augustine-to-personal-blogging-how-i-found-my-own-catharsis-3492" target="_blank">From St. Augustine to Personal Blogging: How I Found My Own Catharsis</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">This book was my first step on Camus work.</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Testing pixel-logo for my SaaS</a> - 2026-01-15 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
-<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426" target="_blank"># Super Busy with Project 2026</a> - 2026-01-10 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <br/>
 <li><a href="BLOG_HISTORY.md">... See all old posts</a></li>
 <!-- PORTFOLIO_END -->

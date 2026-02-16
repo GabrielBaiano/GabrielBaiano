@@ -201,8 +201,12 @@ async function getPortfolioUpdates() {
     })));
   }
 
-  // Sort by date desc
-  items = items.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+  // Sort by date desc (ensure b.created_at and a.created_at exist)
+  items = items.sort((a, b) => {
+    const dateA = new Date(a.created_at || a.date);
+    const dateB = new Date(b.created_at || b.date);
+    return dateB - dateA;
+  });
 
   // --- Generate History File (Grouped by Month) ---
   const grouped = {};
