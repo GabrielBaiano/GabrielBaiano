@@ -35,11 +35,11 @@
 
 <ul>
 <!-- PORTFOLIO_START -->
+<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-o-hype-do-build-in-public-criou-uma-geracao-de-saas-mediocres" target="_blank">O hype do "Build in Public" criou uma geração de SaaS medíocres!</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0077b5?style=flat-square" height="20"/></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0077b5?style=flat-square" height="20"/></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">Utilidade publica sobre documentação e repositórios!</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0077b5?style=flat-square" height="20"/></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-muito-alem-do-readme-o-que-voce-provavelmente-nao-sabia-sobre-documentacao-no-github" target="_blank">Muito além do README: O que você (provavelmente) não sabia sobre documentação no GitHub</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-beyond-the-hype-why-im-choosing-public-utility-over-quick-profits-9018" target="_blank">Beyond the Hype: Why I’m Choosing Public Utility Over Quick Profits</a> - 2026-02-13 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
-<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">The sketchg for my background auto-drawing animation!</a> - 2026-01-23 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
-<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/from-st-augustine-to-personal-blogging-how-i-found-my-own-catharsis-3492" target="_blank">From St. Augustine to Personal Blogging: How I Found My Own Catharsis</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
-<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">This book was my first step on Camus work.</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
-<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">Testing pixel-logo for my SaaS</a> - 2026-01-15 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <br/>
 <li><a href="BLOG_HISTORY.md">... See all old posts</a></li>
 <!-- PORTFOLIO_END -->
