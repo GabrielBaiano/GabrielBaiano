@@ -69,7 +69,7 @@ async function generateHeader() {
       <sub>Latest Photo from Blog</sub>
     </td>
   </tr>
-</table >
+</table>
   `;
 }
 

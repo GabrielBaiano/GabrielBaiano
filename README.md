@@ -27,7 +27,7 @@
       <sub>Latest Photo from Blog</sub>
     </td>
   </tr>
-</table >
+</table>
   
 <!-- HEADER_END -->
 
