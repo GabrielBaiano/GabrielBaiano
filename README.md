@@ -119,13 +119,3 @@
 
 </details>
 
-<br/>
-<br/>
-
-<div align="center">
-  <h3>★ Special thanks to ★</h3>
-  <br/>
-  <img src="image.png" alt="YellowHood Agency" width="250" />
-  <br/>
-  <a href="https://www.yellowhood.com.br">YellowHood Agency</a>
-</div>
