@@ -26,7 +26,6 @@
       <h3>📢 Blog Updates</h3>
       <ul>
 <!-- PORTFOLIO_START -->
-<ul>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-o-hype-do-build-in-public-criou-uma-geracao-de-saas-mediocres" target="_blank">O hype do "Build in Public" criou uma geração de SaaS medíocres!</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0ea5e9?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0ea5e9?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">Utilidade publica sobre documentação e repositórios!</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0ea5e9?style=flat-square" height="20"/></li>
@@ -37,7 +36,6 @@
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426" target="_blank">Super Busy with Project 2026</a> - 2026-01-10 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
 <br/>
 <li><a href="BLOG_HISTORY.md">... See all old posts</a></li>
-</ul>
 <!-- PORTFOLIO_END -->
 </ul>
     </td>

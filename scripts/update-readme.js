@@ -189,7 +189,7 @@ async function getPortfolioUpdates() {
   // Limit to 8 for Grid (Giving more space since it's a dedicated column)
   const topItems = items.slice(0, 8); // Display more items
 
-  let listHtml = '<ul>\n';
+  let listHtml = '';
   listHtml += topItems.map(item => {
     const date = formatDate(item.created_at);
     // Use tag if available, otherwise sourceType
@@ -214,7 +214,7 @@ async function getPortfolioUpdates() {
     return `<li><a href="${item.url}" target="_blank">${item.title}</a> - ${date} • ${tagBadge}</li>`;
   }).join('\n');
 
-  listHtml += `\n<br/>\n<li><a href="BLOG_HISTORY.md">... See all old posts</a></li>\n</ul>`;
+  listHtml += `\n<br/>\n<li><a href="BLOG_HISTORY.md">... See all old posts</a></li>`;
 
   return listHtml;
 }
