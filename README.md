@@ -1,6 +1,6 @@
 <!-- HEADER_START -->
 
-  < table >
+<table>
   <tr>
     <td valign="top" width="50%">
       <h2>Hi there, I'm Gabriel 👋</h2>
