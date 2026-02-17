@@ -186,14 +186,17 @@ async function getPortfolioUpdates() {
     fs.writeFileSync(path.join(__dirname, '..', 'BLOG_HISTORY.md'), historyContent);
   } catch (e) { }
 
-  // Limit to 8 for Grid (Giving more space since it's a dedicated column)
-  const topItems = items.slice(0, 8); // Display more items
+  // Limit to 4 for Grid as requested
+  const topItems = items.slice(0, 4);
 
   let listHtml = '';
   listHtml += topItems.map(item => {
     const date = formatDate(item.created_at);
     // Use tag if available, otherwise sourceType
     let tag = item.tag || item.sourceType;
+
+    // Use English title if available, otherwise fallback to default title
+    const title = item.title_en || item.title;
 
     // Determine Color
     let color = '0077b5'; // Default Blue
@@ -211,7 +214,7 @@ async function getPortfolioUpdates() {
     const safeTag = encodeURIComponent(tag);
     const tagBadge = `<img src="https://img.shields.io/badge/${safeTag}-${color}?style=flat-square" height="20"/>`;
 
-    return `<li><a href="${item.url}" target="_blank">${item.title}</a> - ${date} • ${tagBadge}</li>`;
+    return `<li><a href="${item.url}" target="_blank">${title}</a> - ${date} • ${tagBadge}</li>`;
   }).join('\n');
 
   listHtml += `\n<br/>\n<li><a href="BLOG_HISTORY.md">... See all old posts</a></li>`;
