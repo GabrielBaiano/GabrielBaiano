@@ -2,7 +2,9 @@
 
 ### FEBRUARY 2026
 
-- [Beyond the Hype: Why I’m Choosing Public Utility Over Quick Profits](https://a-new-type-portifolio.vercel.app/#/detail/feed/-beyond-the-hype-why-im-choosing-public-utility-over-quick-profits-9018) - 2026-02-13 • **Thoughts**
+- [O hype do "Build in Public" criou uma geração de SaaS medíocres!](https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-o-hype-do-build-in-public-criou-uma-geracao-de-saas-mediocres) - 2026-02-16 • **TabNews**
+- [Do Bloqueio à Arte: Por que a Criatividade é a Habilidade Técnica que Você Está Ignorando](https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando) - 2026-02-16 • **TabNews**
+- [Utilidade publica sobre documentação e repositórios!](https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-utilidade-publica-sobre-documentacao-e-repositorios) - 2026-02-16 • **TabNews**
 
 ### JANUARY 2026
 
@@ -10,7 +12,7 @@
 - [From St. Augustine to Personal Blogging: How I Found My Own Catharsis](https://a-new-type-portifolio.vercel.app/#/detail/feed/from-st-augustine-to-personal-blogging-how-i-found-my-own-catharsis-3492) - 2026-01-18 • **Thoughts**
 - [This book was my first step on Camus work.](https://a-new-type-portifolio.vercel.app/#/photos) - 2026-01-18 • **Photo**
 - [Testing pixel-logo for my SaaS](https://a-new-type-portifolio.vercel.app/#/photos) - 2026-01-15 • **Photo**
-- [# Super Busy with Project 2026](https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426) - 2026-01-10 • **Thoughts**
+- [Super Busy with Project 2026](https://a-new-type-portifolio.vercel.app/#/detail/feed/-super-busy-with-project-2026-8426) - 2026-01-10 • **Thoughts**
 - [#1161: Maximum Level Sum of a Binary Tree](https://a-new-type-portifolio.vercel.app/#/leetcode/dc8e8357-1502-4d37-8e60-60d8b40f0605) - 2026-01-06 • **LeetCode**
 - [Hollow knight pixel art](https://a-new-type-portifolio.vercel.app/#/photos) - 2026-01-04 • **Photo**
 - [From Block to Art: Why Creativity Is the Technical Skill You Are Ignoring](https://a-new-type-portifolio.vercel.app/#/detail/feed/from-block-to-art-why-creativity-is-the-technical-skill-you-are-ignoring-1574) - 2026-01-03 • **Thoughts**
