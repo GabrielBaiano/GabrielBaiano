@@ -38,9 +38,9 @@
 <ul>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-o-hype-do-build-in-public-criou-uma-geracao-de-saas-mediocres" target="_blank">The 'Build in Public' Hype Created a Generation of Mediocre SaaS!</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-do-bloqueio-a-arte-por-que-a-criatividade-e-a-habilidade-tecnica-que-voce-esta-ignorando" target="_blank">From Block to Art: Why Creativity is the Technical Skill You Are Ignoring</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0077b5?style=flat-square" height="20"/></li>
-<li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/tabnews-utilidade-publica-sobre-documentacao-e-repositorios" target="_blank">Public service announcement about documentation and repositories!</a> - 2026-02-16 • <img src="https://img.shields.io/badge/TabNews-0077b5?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">The sketchg for my background auto-drawing animation!</a> - 2026-01-23 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <li><a href="https://a-new-type-portifolio.vercel.app/#/detail/feed/from-st-augustine-to-personal-blogging-how-i-found-my-own-catharsis-3492" target="_blank">From St. Augustine to Personal Blogging: How I Found My Own Catharsis</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Thoughts-0077b5?style=flat-square" height="20"/></li>
+<li><a href="https://a-new-type-portifolio.vercel.app/#/photos" target="_blank">This book was my first step on Camus work.</a> - 2026-01-18 • <img src="https://img.shields.io/badge/Photo-008000?style=flat-square" height="20"/></li>
 <br/>
 <li><a href="BLOG_HISTORY.md">... See all old posts</a></li>
 </ul>
