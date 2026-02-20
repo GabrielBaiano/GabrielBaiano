@@ -5,7 +5,6 @@ async function main() {
   try {
     const portfolioContent = await getPortfolioUpdates();
     const headerContent = await generateHeader();
-    const booksContent = await getBooks();
 
     const readmePath = path.join(__dirname, '..', 'README.md');
     let readme = fs.readFileSync(readmePath, 'utf8');
@@ -15,12 +14,6 @@ async function main() {
     readme = readme.replace(
       /<!-- HEADER_START -->[\s\S]*?<!-- HEADER_END -->/,
       `<!-- HEADER_START -->\n${headerContent}\n<!-- HEADER_END -->`
-    );
-
-    // Update Books section
-    readme = readme.replace(
-      /<!-- BOOKS_START -->[\s\S]*?<!-- BOOKS_END -->/,
-      `<!-- BOOKS_START -->\n${booksContent}\n<!-- BOOKS_END -->`
     );
 
     // Update Portfolio section
@@ -42,31 +35,35 @@ async function generateHeader() {
   const photoUrl = await getLatestPhoto();
 
   return `
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
-      <h2>Hi there, I'm Gabriel 👋</h2>
-      <p>Currently working as a <b>Researcher</b> and focusing on my <b>Master's degree</b>. In my free time, I focus on <b>personal projects</b> and exploring the entrepreneurial world with a <b>company</b> and a <b>micro SaaS</b>.</p>
-      <br />
-      <a href="https://a-new-type-portifolio.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit_my_Blog-2ea44f?style=for-the-badge&logo=rss" height="30" />
-      </a>
-      <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-5b0b30185/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-      </a>
-      <br />
-      <br />
-      <a href="https://x.com/uMagicalJake">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
-      </a>
-      <a href="mailto:gabrielngama@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-      </a>
+    <td valign="top" width="25%">
+      <h3>Who I Am</h3>
+      <p>I'm <b>Gabriel 👋</b>, currently working as a <b>Researcher</b> and focusing on my <b>Master's degree</b>.</p>
     </td>
-    <td valign="center" width="50%" align="center">
+    <td valign="top" width="25%">
+      <h3>What I Do</h3>
+      <p>I focus on <b>personal projects</b> and exploring the entrepreneurial world with a <b>company</b> and a <b>micro SaaS</b>.</p>
+    </td>
+    <td valign="center" width="25%" align="center">
       <img src="${photoUrl}" alt="Latest Photo" width="100%" style="border-radius: 10px;" />
       <br />
       <sub>Latest Photo from Blog</sub>
+    </td>
+    <td valign="top" width="25%" align="center">
+      <h3>Let's Connect</h3>
+      <a href="https://a-new-type-portifolio.vercel.app/">
+        <img src="https://img.shields.io/badge/Blog-2ea44f?style=for-the-badge&logo=rss" width="100%" height="25" />
+      </a>
+      <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-5b0b30185/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" height="25" />
+      </a>
+      <a href="https://x.com/uMagicalJake">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" width="100%" height="25" />
+      </a>
+      <a href="mailto:gabrielngama@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" height="25" />
+      </a>
     </td>
   </tr>
 </table>
@@ -219,52 +216,6 @@ function formatDate(dateString) {
   return date.toISOString().split('T')[0];
 }
 
-async function getBooks() {
-  let currentlyReadingHtml = '';
-  let booksReadCount = 0;
-  const currentYear = new Date().getFullYear();
-
-  try {
-    // 1. Get Currently Reading from README
-    const readmeRes = await fetch('https://raw.githubusercontent.com/GabrielBaiano/personal-library/main/README.md');
-    const readmeText = await readmeRes.text();
-
-    // Extract the "Reading" table
-    const tableMatch = readmeText.match(/<table>[\s\S]*?Reading[\s\S]*?<\/table>/);
-    if (tableMatch) {
-      currentlyReadingHtml = tableMatch[0];
-    } else {
-      currentlyReadingHtml = '<p>Not reading anything public right now.</p>';
-    }
-
-    // 2. Get Books Read Count from API (Folder count)
-    const apiRes = await fetch(`https://api.github.com/repos/GabrielBaiano/personal-library/contents/${currentYear}`);
-    if (apiRes.ok) {
-      const files = await apiRes.json();
-      if (Array.isArray(files)) {
-        booksReadCount = files.length;
-      }
-    }
-
-  } catch (error) {
-    console.error('Error fetching books:', error);
-    currentlyReadingHtml = 'Could not load books data.';
-  }
-
-  return `
-<p>
-  This is part of my <b><a href="https://github.com/GabrielBaiano/personal-library">Personal Library</a></b> project — a dedicated space where I organize my readings, share reflections, and build a consistent reading habit.
-</p>
-
-${currentlyReadingHtml}
-
-<br/>
-
-**${currentYear} Reading Progress:** ${booksReadCount} books read so far 🏁
-<br/>
-<a href="https://github.com/GabrielBaiano/personal-library">Check out my specific notes here!</a>
-`;
-}
 
 // Run main
 main();
