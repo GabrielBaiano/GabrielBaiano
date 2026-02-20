@@ -18,16 +18,19 @@
     <td valign="top" width="25%" align="center">
       <h3>Let's Connect</h3>
       <a href="https://a-new-type-portifolio.vercel.app/">
-        <img src="https://img.shields.io/badge/Blog-2ea44f?style=for-the-badge&logo=rss" width="100%" height="25" />
+        <img src="https://img.shields.io/badge/Blog-2ea44f?style=for-the-badge&logo=rss" height="28" />
       </a>
+      <br/>
       <a href="https://www.linkedin.com/in/gabriel-nascimento-gama-5b0b30185/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" height="25" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
       </a>
+      <br/>
       <a href="https://x.com/uMagicalJake">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" width="100%" height="25" />
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="28" />
       </a>
+      <br/>
       <a href="mailto:gabrielngama@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" height="25" />
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
       </a>
     </td>
   </tr>
