@@ -5,7 +5,7 @@
     <td valign="top" width="50%">
       <h2>👨‍💻 About Me</h2>
       <p>
-        I'm a <b>Front-end Developer (Pleno)</b> focused on building modern, responsive, and high-performance web and mobile applications. Currently working at <b>Flash</b>.
+        I'm a <b>Front-end Developer</b> focused on building modern, responsive, and high-performance web and mobile applications. Currently working at <b>Flash</b>.
       </p>
       <h3>🛠️ Tech Stack</h3>
       <p align="left">
