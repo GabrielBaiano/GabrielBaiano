@@ -32,6 +32,7 @@
 :--- | --- | :--- | :---
 [--landing-kingInYellow-penguin](https://github.com/GabrielBaiano/--landing-kingInYellow-penguin) | [`#homepage`](https://landing-king-in-yellow-penguin.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/--landing-kingInYellow-penguin?style=flat&label=)](https://github.com/GabrielBaiano/--landing-kingInYellow-penguin/stargazers) | Editorial 3D landing page · Penguin Books × Livraria da Vila · Obra Dinn GLSL shaders
 [VOSTOK_OS_TERMINAL](https://github.com/GabrielBaiano/VOSTOK_OS_TERMINAL) | [`#homepage`](https://vostok-os-terminal.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/VOSTOK_OS_TERMINAL?style=flat&label=)](https://github.com/GabrielBaiano/VOSTOK_OS_TERMINAL/stargazers) | Dystopian interactive terminal with AI
+[--Playdate-landing](https://github.com/GabrielBaiano/--Playdate-landing) | [`#homepage`](https://playdate-picad.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/--Playdate-landing?style=flat&label=)](https://github.com/GabrielBaiano/--Playdate-landing/stargazers) | PicoCad web mascot demo
 
 **Open Source & Tools** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
