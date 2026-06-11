@@ -67,7 +67,7 @@ I am a researcher, and this space is dedicated to my scientific and academic inv
 
 **Research Repositories** | **Homepage** | **DOI** | **Stars** | **Description**
 :--- | --- | :--- | :--- | :---
-[-academic-research](https://github.com/GabrielBaiano/-academic-research) | - | [![DOI](https://zenodo.org/badge/1250735260.svg)](https://doi.org/10.5281/zenodo.20638523) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/-academic-research?style=flat&label=)](https://github.com/GabrielBaiano/-academic-research/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
+[-academic-research](https://github.com/GabrielBaiano/-academic-research) | - | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638524.svg)](https://doi.org/10.5281/zenodo.20638524) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/-academic-research?style=flat&label=)](https://github.com/GabrielBaiano/-academic-research/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
 
 </details>
 
