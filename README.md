@@ -36,6 +36,7 @@
 
 **Open Source & Tools** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
+[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [`#homepage`](https://ebbcopendata.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & dashboard for Brazilian bibliometric data · Academic open data
 [awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [`#homepage`](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | Professional README templates · Bilingual support · ⭐ 77
 [shii-study-assistant](https://github.com/GabrielBaiano/shii-study-assistant) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/shii-study-assistant?style=flat&label=)](https://github.com/GabrielBaiano/shii-study-assistant/stargazers) | Secure Electron client for Gemini API · Stealth mode · Student focus
 [Banered](https://github.com/GabrielBaiano/Banered) | [`#homepage`](https://banered.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/Banered?style=flat&label=)](https://github.com/GabrielBaiano/Banered/stargazers) | Create banners & icons from images, fast
@@ -68,6 +69,7 @@ I am a researcher, and this space is dedicated to my scientific and academic inv
 **Research Repositories** | **Homepage** | **DOI** | **Stars** | **Description**
 :--- | --- | :--- | :--- | :---
 [qss-ebbc-curator-ai](https://github.com/GabrielBaiano/-academic-research) | - | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638524.svg)](https://doi.org/10.5281/zenodo.20638524) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/-academic-research?style=flat&label=)](https://github.com/GabrielBaiano/-academic-research/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
+[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [`#homepage`](https://ebbcopendata.vercel.app/) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722056.svg)](https://doi.org/10.5281/zenodo.20722056) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & interactive dashboard for EBBC bibliometric data · Citable open dataset
 
 </details>
 
