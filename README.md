@@ -66,10 +66,10 @@
 
 I am a researcher, and this space is dedicated to my scientific and academic investigations. Here, I curate and host the source code, automation pipelines, and data curation scripts that support my research projects and publications.
 
-**Research Repositories** | **Homepage** | **DOI** | **Stars** | **Description**
-:--- | --- | :--- | :--- | :---
-[qss-ebbc-curator-ai](https://github.com/GabrielBaiano/-academic-research) | - | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638524.svg)](https://doi.org/10.5281/zenodo.20638524) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/-academic-research?style=flat&label=)](https://github.com/GabrielBaiano/-academic-research/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
-[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [`#homepage`](https://ebbcopendata.vercel.app/) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722056.svg)](https://doi.org/10.5281/zenodo.20722056) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & interactive dashboard for EBBC bibliometric data · Citable open dataset
+**Research Repositories** | **DOI** | **Stars** | **Description**
+:--- | :--- | :--- | :---
+[qss-ebbc-curator-ai](https://github.com/GabrielBaiano/-academic-research) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638524.svg)](https://doi.org/10.5281/zenodo.20638524) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/-academic-research?style=flat&label=)](https://github.com/GabrielBaiano/-academic-research/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
+[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722056.svg)](https://doi.org/10.5281/zenodo.20722056) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & interactive dashboard for EBBC bibliometric data · Citable open dataset
 
 </details>
 
