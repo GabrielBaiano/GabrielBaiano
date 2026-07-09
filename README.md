@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <a href="https://gabrielgama-dev.vercel.app/">
+  <a href="https://gabrielgama.vercel.app/">
     <img width="60" height="60" src="https://avatars.githubusercontent.com/u/100228796?v=4" style="border-radius:50%" />
   </a>
   <br>
@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> • 
     <a href="https://x.com/uMagicalJake">X / Twitter</a> • 
     <a href="mailto:gabrielngama@gmail.com">E-Mail</a> • 
-    <a href="https://gabrielgama-dev.vercel.app/">Portfolio</a>
+    <a href="https://gabrielgama.vercel.app/">Portfolio</a>
   </p>
   <br>
   <br>
@@ -24,15 +24,15 @@
 <summary>More Repositories...</summary>
 
 <p>
-  <a href="https://gabrielgama-dev.vercel.app/"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=dark&hide_border=true&background=0d1117&ring=805AD5&fire=805AD5&currStreakLabel=805AD5" /></a>
-  <a href="https://gabrielgama-dev.vercel.app/"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=805AD5&text_color=c9d1d9&langs_count=8" /></a>
+  <a href="https://gabrielgama.vercel.app/"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=dark&hide_border=true&background=0d1117&ring=805AD5&fire=805AD5&currStreakLabel=805AD5" /></a>
+  <a href="https://gabrielgama.vercel.app/"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=805AD5&text_color=c9d1d9&langs_count=8" /></a>
 </p>
 
 **Cool Websites** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
-[--landing-kingInYellow-penguin](https://github.com/GabrielBaiano/--landing-kingInYellow-penguin) | [`#homepage`](https://landing-king-in-yellow-penguin.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/--landing-kingInYellow-penguin?style=flat&label=)](https://github.com/GabrielBaiano/--landing-kingInYellow-penguin/stargazers) | Editorial 3D landing page · Penguin Books × Livraria da Vila · Obra Dinn GLSL shaders
-[VOSTOK_OS_TERMINAL](https://github.com/GabrielBaiano/VOSTOK_OS_TERMINAL) | [`#homepage`](https://vostok-os-terminal.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/VOSTOK_OS_TERMINAL?style=flat&label=)](https://github.com/GabrielBaiano/VOSTOK_OS_TERMINAL/stargazers) | Dystopian interactive terminal with AI
-[--Playdate-landing](https://github.com/GabrielBaiano/--Playdate-landing) | [`#homepage`](https://playdate-picad.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/--Playdate-landing?style=flat&label=)](https://github.com/GabrielBaiano/--Playdate-landing/stargazers) | PicoCad web mascot demo
+[landing-kingInYellow-penguin](https://github.com/GabrielBaiano/landing-kingInYellow-penguin) | [`#homepage`](https://landing-king-in-yellow-penguin.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/landing-kingInYellow-penguin?style=flat&label=)](https://github.com/GabrielBaiano/landing-kingInYellow-penguin/stargazers) | Editorial 3D landing page · Penguin Books × Livraria da Vila · Obra Dinn GLSL shaders
+[lading-vostok_os-v01](https://github.com/GabrielBaiano/lading-vostok_os-v01) | [`#homepage`](https://vostok-os-terminal.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/lading-vostok_os-v01?style=flat&label=)](https://github.com/GabrielBaiano/lading-vostok_os-v01/stargazers) | Dystopian interactive terminal with AI
+[landing-playdate-retrocon-2026](https://github.com/GabrielBaiano/landing-playdate-retrocon-2026) | [`#homepage`](https://playdate-picad.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/landing-playdate-retrocon-2026?style=flat&label=)](https://github.com/GabrielBaiano/landing-playdate-retrocon-2026/stargazers) | PicoCad web mascot demo
 
 **Open Source & Tools** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
@@ -46,18 +46,9 @@
 **Creative & Art** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
 [generative-art-gallery](https://github.com/GabrielBaiano/generative-art-gallery) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/generative-art-gallery?style=flat&label=)](https://github.com/GabrielBaiano/generative-art-gallery/stargazers) | Generative art experiments — algorithms, attractors, noise
-[personal_bloodborn_svg](https://github.com/GabrielBaiano/personal_bloodborn_svg) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/personal_bloodborn_svg?style=flat&label=)](https://github.com/GabrielBaiano/personal_bloodborn_svg/stargazers) | SVG artwork inspired by Bloodborne
-[--art-ruido-2026-](https://github.com/GabrielBaiano/--art-ruido-2026-) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/--art-ruido-2026-?style=flat&label=)](https://github.com/GabrielBaiano/--art-ruido-2026-/stargazers) | Noise-based generative art exploration
-[Testing-LEGO-SVG](https://github.com/GabrielBaiano/Testing-LEGO-SVG) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/Testing-LEGO-SVG?style=flat&label=)](https://github.com/GabrielBaiano/Testing-LEGO-SVG/stargazers) | SVG experimentation with LEGO-style visuals
-
-</details>
-
-<details>
-<summary>My React Components...</summary>
-
-**React Components** | **Homepage** | **Stars** | **Description**
-:--- | --- | :--- | :---
-[component-sandbox](https://github.com/GabrielBaiano/component-sandbox) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/component-sandbox?style=flat&label=)](https://github.com/GabrielBaiano/component-sandbox/stargazers) | Reusable frontend components & UI playground
+[bloodborn-profileSVG-v00](https://github.com/GabrielBaiano/bloodborn-profileSVG-v00) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/bloodborn-profileSVG-v00?style=flat&label=)](https://github.com/GabrielBaiano/bloodborn-profileSVG-v00/stargazers) | SVG artwork inspired by Bloodborne
+[art-ruido-2026](https://github.com/GabrielBaiano/art-ruido-2026) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/art-ruido-2026?style=flat&label=)](https://github.com/GabrielBaiano/art-ruido-2026/stargazers) | Noise-based generative art exploration
+[experiment-lego-svg](https://github.com/GabrielBaiano/experiment-lego-svg) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/experiment-lego-svg?style=flat&label=)](https://github.com/GabrielBaiano/experiment-lego-svg/stargazers) | SVG experimentation with LEGO-style visuals
 
 </details>
 
@@ -68,12 +59,12 @@ I am a researcher, and this space is dedicated to my scientific and academic inv
 
 **Research Repositories** | **DOI** | **Stars** | **Description**
 :--- | :--- | :--- | :---
-[qss-ebbc-curator-ai](https://github.com/GabrielBaiano/-academic-research) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638524.svg)](https://doi.org/10.5281/zenodo.20638524) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/-academic-research?style=flat&label=)](https://github.com/GabrielBaiano/-academic-research/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
+[qss-ebbc-curator-ai](https://github.com/GabrielBaiano/qss-ebbc-curator-ai) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638524.svg)](https://doi.org/10.5281/zenodo.20638524) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/qss-ebbc-curator-ai?style=flat&label=)](https://github.com/GabrielBaiano/qss-ebbc-curator-ai/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
 [EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722056.svg)](https://doi.org/10.5281/zenodo.20722056) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & interactive dashboard for EBBC bibliometric data · Citable open dataset
 
 </details>
 
-<kbd>[**Portfolio**](https://gabrielgama-dev.vercel.app/)</kbd>
+<kbd>[**Portfolio**](https://gabrielgama.vercel.app/)</kbd>
 <kbd>[**King in Yellow**](https://landing-king-in-yellow-penguin.vercel.app/)</kbd>
 <kbd>[**Awesome README**](https://awesome-readme-nu.vercel.app/)</kbd>
 <kbd>[**Shii! Study Assistant**](https://github.com/GabrielBaiano/shii-study-assistant)</kbd>
@@ -82,7 +73,7 @@ I am a researcher, and this space is dedicated to my scientific and academic inv
 <kbd>[**Banered**](https://banered.vercel.app/)</kbd>
 
 <br />
-<a href="https://gabrielgama-dev.vercel.app/">
+<a href="https://gabrielgama.vercel.app/">
   <table align="right">
       <tr>
           <td>
