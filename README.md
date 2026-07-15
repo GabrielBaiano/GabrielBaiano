@@ -28,27 +28,14 @@
   <a href="https://gabrielgama.vercel.app/"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=805AD5&text_color=c9d1d9&langs_count=8" /></a>
 </p>
 
-**Cool Websites** | **Homepage** | **Stars** | **Description**
-:--- | --- | :--- | :---
-[landing-kingInYellow-penguin](https://github.com/GabrielBaiano/landing-kingInYellow-penguin) | [`#homepage`](https://landing-king-in-yellow-penguin.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/landing-kingInYellow-penguin?style=flat&label=)](https://github.com/GabrielBaiano/landing-kingInYellow-penguin/stargazers) | Editorial 3D landing page · Penguin Books × Livraria da Vila · Obra Dinn GLSL shaders
-[lading-vostok_os-v01](https://github.com/GabrielBaiano/lading-vostok_os-v01) | [`#homepage`](https://vostok-os-terminal.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/lading-vostok_os-v01?style=flat&label=)](https://github.com/GabrielBaiano/lading-vostok_os-v01/stargazers) | Dystopian interactive terminal with AI
-[landing-playdate-retrocon-2026](https://github.com/GabrielBaiano/landing-playdate-retrocon-2026) | [`#homepage`](https://playdate-picad.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/landing-playdate-retrocon-2026?style=flat&label=)](https://github.com/GabrielBaiano/landing-playdate-retrocon-2026/stargazers) | PicoCad web mascot demo
-
 **Open Source & Tools** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
+[tabnews-release-publisher](https://github.com/GabrielBaiano/tabnews-release-publisher) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/tabnews-release-publisher?style=flat&label=)](https://github.com/GabrielBaiano/tabnews-release-publisher/stargazers) | Publique lançamentos do GitHub no TabNews automaticamente com tradução usando IA.
+[paperback](https://github.com/GabrielBaiano/paperback) | [`#homepage`](https://paperback.fly.dev/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/paperback?style=flat&label=)](https://github.com/GabrielBaiano/paperback/stargazers) | Render e-books in the browser with friends.
 [EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [`#homepage`](https://ebbcopendata.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & dashboard for Brazilian bibliometric data · Academic open data
 [awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [`#homepage`](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | Professional README templates · Bilingual support · ⭐ 77
 [shii-study-assistant](https://github.com/GabrielBaiano/shii-study-assistant) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/shii-study-assistant?style=flat&label=)](https://github.com/GabrielBaiano/shii-study-assistant/stargazers) | Secure Electron client for Gemini API · Stealth mode · Student focus
 [Banered](https://github.com/GabrielBaiano/Banered) | [`#homepage`](https://banered.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/Banered?style=flat&label=)](https://github.com/GabrielBaiano/Banered/stargazers) | Create banners & icons from images, fast
-[bookshell](https://github.com/GabrielBaiano/bookshell) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/bookshell?style=flat&label=)](https://github.com/GabrielBaiano/bookshell/stargazers) | CLI app to download & read books via Google Drive
-[ecommerce-app](https://github.com/GabrielBaiano/ecommerce-app) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/ecommerce-app?style=flat&label=)](https://github.com/GabrielBaiano/ecommerce-app/stargazers) | E-commerce app — Compass UOL team challenge
-
-**Creative & Art** | **Homepage** | **Stars** | **Description**
-:--- | --- | :--- | :---
-[generative-art-gallery](https://github.com/GabrielBaiano/generative-art-gallery) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/generative-art-gallery?style=flat&label=)](https://github.com/GabrielBaiano/generative-art-gallery/stargazers) | Generative art experiments — algorithms, attractors, noise
-[bloodborn-profileSVG-v00](https://github.com/GabrielBaiano/bloodborn-profileSVG-v00) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/bloodborn-profileSVG-v00?style=flat&label=)](https://github.com/GabrielBaiano/bloodborn-profileSVG-v00/stargazers) | SVG artwork inspired by Bloodborne
-[art-ruido-2026](https://github.com/GabrielBaiano/art-ruido-2026) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/art-ruido-2026?style=flat&label=)](https://github.com/GabrielBaiano/art-ruido-2026/stargazers) | Noise-based generative art exploration
-[experiment-lego-svg](https://github.com/GabrielBaiano/experiment-lego-svg) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/experiment-lego-svg?style=flat&label=)](https://github.com/GabrielBaiano/experiment-lego-svg/stargazers) | SVG experimentation with LEGO-style visuals
 
 </details>
 
@@ -67,8 +54,8 @@ I am a researcher, and this space is dedicated to my scientific and academic inv
 <kbd>[**Portfolio**](https://gabrielgama.vercel.app/)</kbd>
 <kbd>[**King in Yellow**](https://landing-king-in-yellow-penguin.vercel.app/)</kbd>
 <kbd>[**Awesome README**](https://awesome-readme-nu.vercel.app/)</kbd>
-<kbd>[**Shii! Study Assistant**](https://github.com/GabrielBaiano/shii-study-assistant)</kbd>
-<kbd>[**Generative Art**](https://github.com/GabrielBaiano/generative-art-gallery)</kbd>
+<kbd>[**TabNews Publisher**](https://github.com/GabrielBaiano/tabnews-release-publisher)</kbd>
+<kbd>[**Paperback**](https://paperback.fly.dev/)</kbd>
 <kbd>[**VOSTOK OS**](https://vostok-os-terminal.vercel.app/)</kbd>
 <kbd>[**Banered**](https://banered.vercel.app/)</kbd>
 
