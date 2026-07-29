@@ -30,7 +30,6 @@
 
 **Open Source & Tools** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
-[tabnews-release-publisher](https://github.com/GabrielBaiano/tabnews-release-publisher) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/tabnews-release-publisher?style=flat&label=)](https://github.com/GabrielBaiano/tabnews-release-publisher/stargazers) | Publique lançamentos do GitHub no TabNews automaticamente com tradução usando IA.
 [paperback](https://github.com/GabrielBaiano/paperback) | [`#homepage`](https://paperback.fly.dev/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/paperback?style=flat&label=)](https://github.com/GabrielBaiano/paperback/stargazers) | Render e-books in the browser with friends.
 [EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [`#homepage`](https://ebbcopendata.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & dashboard for Brazilian bibliometric data · Academic open data
 [awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [`#homepage`](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | Professional README templates · Bilingual support · ⭐ 77
