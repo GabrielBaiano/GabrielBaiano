@@ -11,7 +11,6 @@
   Hi, I'm Gabriel, Front-end Developer from Brazil.
   <p>
     <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> • 
-    <a href="https://x.com/uMagicalJake">X / Twitter</a> • 
     <a href="mailto:gabrielngama@gmail.com">E-Mail</a> • 
     <a href="https://gabrielgama.vercel.app/">Portfolio</a>
   </p>
