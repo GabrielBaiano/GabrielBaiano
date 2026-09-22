@@ -52,7 +52,6 @@ I am a researcher, and this space is dedicated to my scientific and academic inv
 <kbd>[**Portfolio**](https://gabrielgama.vercel.app/)</kbd>
 <kbd>[**King in Yellow**](https://landing-king-in-yellow-penguin.vercel.app/)</kbd>
 <kbd>[**Awesome README**](https://awesome-readme-nu.vercel.app/)</kbd>
-<kbd>[**TabNews Publisher**](https://github.com/GabrielBaiano/tabnews-release-publisher)</kbd>
 <kbd>[**Paperback**](https://paperback.fly.dev/)</kbd>
 <kbd>[**VOSTOK OS**](https://vostok-os-terminal.vercel.app/)</kbd>
 <kbd>[**Banered**](https://banered.vercel.app/)</kbd>
