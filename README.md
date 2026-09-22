@@ -21,8 +21,7 @@
 
 <p>
   <a href="https://gabrielgama.vercel.app/"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=dark&hide_border=true&background=0d1117&ring=805AD5&fire=805AD5&currStreakLabel=805AD5" /></a>
-  <a href="https://gabrielgama.vercel.app/"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBaiano&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=805AD5&text_color=c9d1d9&langs_count=8" /></a>
-</p>
+
 
 **Open Source & Tools** | **Homepage** | **Stars** | **Description**
 :--- | --- | :--- | :---
