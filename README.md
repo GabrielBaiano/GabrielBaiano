@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://gabrielgama.vercel.app/">
-    <img width="250" height="250" src="whatIsThis_meme.svg" style="border-radius:50%" />
+    <img width="230" height="230" src="whatIsThis_meme.svg" style="border-radius:50%" />
   </a>
   <br>
   Hi, I'm Gabriel, Front-end Developer from Brazil.
