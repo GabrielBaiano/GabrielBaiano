@@ -1,9 +1,6 @@
 <div align="center">
   <br>
   <br>
-  <br>
-  <br>
-  <br>
   <a href="https://gabrielgama.vercel.app/">
     <img width="250" height="250" src="whatIsThis_meme.svg" style="border-radius:50%" />
   </a>
