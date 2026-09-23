@@ -34,17 +34,6 @@
 
 </details>
 
-<details>
-<summary>Academic Research...</summary>
-
-I am a researcher, and this space is dedicated to my scientific and academic investigations. Here, I curate and host the source code, automation pipelines, and data curation scripts that support my research projects and publications.
-
-**Research Repositories** | **DOI** | **Stars** | **Description**
-:--- | :--- | :--- | :---
-[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722056.svg)](https://doi.org/10.5281/zenodo.20722056) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & interactive dashboard for EBBC bibliometric data · Citable open dataset
-
-</details>
-
 <kbd>[**Portfolio**](https://gabrielgama.vercel.app/)</kbd>
 <kbd>[**Awesome README**](https://awesome-readme-nu.vercel.app/)</kbd>
 <kbd>[**Paperback**](https://paperback.fly.dev/)</kbd>
