@@ -1,64 +1,29 @@
 <div align="center">
-  <br>
-  <br>
-  <a href="https://gabrielgama.vercel.app/">
-    <img width="250" height="250" src="whatIsThis_meme.svg" style="border-radius:50%" />
-  </a>
-  <br>
-  Hi, I'm Gabriel, Front-end Developer from Brazil.
+  <h1>Gabriel Gama</h1>
+  <p><strong>Software Engineer & Open Source Developer</strong> based in Brazil.</p>
+  <p>Focusing on frontend architecture, performant web graphics (SVG/Canvas), and academic open data systems.</p>
   <p>
-    <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> • 
-    <a href="mailto:gabrielngama@gmail.com">E-Mail</a> • 
-    <a href="https://gabrielgama.vercel.app/">Portfolio</a>
+    <a href="https://gabrielgama.vercel.app/">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> •
+    <a href="mailto:gabrielngama@gmail.com">Email</a>
   </p>
-  <br>
-  <br>
-  <br>
 </div>
 
-<details>
-<summary>More Repositories...</summary>
+---
 
-<p>
-  <a href="https://gabrielgama.vercel.app/"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=dark&hide_border=true&background=0d1117&ring=805AD5&fire=805AD5&currStreakLabel=805AD5" /></a>
+### 🚀 Featured Open Source
 
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[awesome-readme](https://github.com/GabrielBaiano/awesome-readme)** | Curated, battle-tested README templates & CLI generator with live web preview. | TypeScript, HTML/CSS, CLI | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/awesome-readme?style=flat-square&label=stars)](https://github.com/GabrielBaiano/awesome-readme) |
+| **[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData)** | Public REST API & dashboard for bibliometric data from EBBC. Full test coverage & Zenodo DOI. | Node.js, Express, Python | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722056.svg)](https://doi.org/10.5281/zenodo.20722056) |
+| **[shii-study-assistant](https://github.com/GabrielBaiano/shii-study-assistant)** | Desktop study client for Google Gemini API with screen protection and custom note widgets. | Electron, JavaScript, CSS | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/shii-study-assistant?style=flat-square&label=stars)](https://github.com/GabrielBaiano/shii-study-assistant) |
+| **[pure-svg-charts](https://github.com/GabrielBaiano/pure-svg-charts)** | Zero-dependency, ultra-lightweight (<10kB) reactive SVG chart primitives with LTTB downsampling. | React 19, TypeScript, Vitest | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/pure-svg-charts?style=flat-square&label=stars)](https://github.com/GabrielBaiano/pure-svg-charts) |
+| **[Deskstamp](https://github.com/GabrielBaiano/Deskstamp)** | Native desktop watermark overlay engine for Linux & Pop!_OS COSMIC with zero idle CPU overhead. | Rust, Wayland, Flatpak | [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/GabrielBaiano/Deskstamp) |
 
-**Open Source & Tools** | **Homepage** | **Stars** | **Description**
-:--- | --- | :--- | :---
-[paperback](https://github.com/GabrielBaiano/paperback) | [`#homepage`](https://paperback.fly.dev/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/paperback?style=flat&label=)](https://github.com/GabrielBaiano/paperback/stargazers) | Render e-books in the browser with friends.
-[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [`#homepage`](https://ebbcopendata.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & dashboard for Brazilian bibliometric data · Academic open data
-[awesome-readme](https://github.com/GabrielBaiano/awesome-readme) | [`#homepage`](https://awesome-readme-nu.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/awesome-readme?style=flat&label=)](https://github.com/GabrielBaiano/awesome-readme/stargazers) | Professional README templates · Bilingual support · ⭐ 77
-[shii-study-assistant](https://github.com/GabrielBaiano/shii-study-assistant) | - | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/shii-study-assistant?style=flat&label=)](https://github.com/GabrielBaiano/shii-study-assistant/stargazers) | Secure Electron client for Gemini API · Stealth mode · Student focus
-[Banered](https://github.com/GabrielBaiano/Banered) | [`#homepage`](https://banered.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/Banered?style=flat&label=)](https://github.com/GabrielBaiano/Banered/stargazers) | Create banners & icons from images, fast
+---
 
-</details>
+### 🔬 Academic Research & Scientometrics
 
-<details>
-<summary>Academic Research...</summary>
-
-I am a researcher, and this space is dedicated to my scientific and academic investigations. Here, I curate and host the source code, automation pipelines, and data curation scripts that support my research projects and publications.
-
-**Research Repositories** | **DOI** | **Stars** | **Description**
-:--- | :--- | :--- | :---
-[qss-ebbc-curator-ai](https://github.com/GabrielBaiano/qss-ebbc-curator-ai) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20638524.svg)](https://doi.org/10.5281/zenodo.20638524) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/qss-ebbc-curator-ai?style=flat&label=)](https://github.com/GabrielBaiano/qss-ebbc-curator-ai/stargazers) | Computational workflows and tools developed for literature review, citation extraction, and academic paper curation
-[EBBC-OpenData](https://github.com/GabrielBaiano/EBBC-OpenData) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722056.svg)](https://doi.org/10.5281/zenodo.20722056) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/EBBC-OpenData?style=flat&label=)](https://github.com/GabrielBaiano/EBBC-OpenData/stargazers) | Open REST API & interactive dashboard for EBBC bibliometric data · Citable open dataset
-
-</details>
-
-<kbd>[**Portfolio**](https://gabrielgama.vercel.app/)</kbd>
-<kbd>[**King in Yellow**](https://landing-king-in-yellow-penguin.vercel.app/)</kbd>
-<kbd>[**Awesome README**](https://awesome-readme-nu.vercel.app/)</kbd>
-<kbd>[**Paperback**](https://paperback.fly.dev/)</kbd>
-<kbd>[**VOSTOK OS**](https://vostok-os-terminal.vercel.app/)</kbd>
-<kbd>[**Banered**](https://banered.vercel.app/)</kbd>
-
-<br />
-<a href="https://gabrielgama.vercel.app/">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;My portfolio & cool websites
-          </td>
-      </tr>
-  </table>
-</a>
+Active research on quantitative science studies, citation network extraction, and open science data pipelines:
+- **[EBBC OpenData Platform](https://ebbcopendata.vercel.app/)**: Accessible bibliometric metadata and researcher discovery for the Brazilian scientific community.
