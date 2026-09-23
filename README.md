@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://gabrielgama.vercel.app/">
+  <a href="https://gabrielbaiano.vercel.app/">
     <img width="250" height="250" src="whatIsThis_meme.svg" style="border-radius:50%" />
   </a>
   <br>
@@ -9,7 +9,7 @@
   <p>
     <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> • 
     <a href="mailto:gabrielngama@gmail.com">E-Mail</a> • 
-    <a href="https://gabrielgama.vercel.app/">Portfolio</a>
+    <a href="https://gabrielbaiano.vercel.app/">Portfolio</a>
   </p>
   <br>
   <br>
@@ -20,7 +20,7 @@
 <summary>More Repositories...</summary>
 
 <p>
-  <a href="https://gabrielgama.vercel.app/"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=dark&hide_border=true&background=0d1117&ring=805AD5&fire=805AD5&currStreakLabel=805AD5" /></a>
+  <a href="https://gabrielbaiano.vercel.app/"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBaiano&theme=dark&hide_border=true&background=0d1117&ring=805AD5&fire=805AD5&currStreakLabel=805AD5" /></a>
 </p>
 
 **Open Source & Tools** | **Homepage** | **Stars** | **Description**
@@ -34,7 +34,7 @@
 
 </details>
 
-<kbd>[**Portfolio**](https://gabrielgama.vercel.app/)</kbd>
+<kbd>[**Portfolio**](https://gabrielbaiano.vercel.app/)</kbd>
 <kbd>[**Awesome README**](https://awesome-readme-nu.vercel.app/)</kbd>
 <kbd>[**Paperback**](https://paperback.fly.dev/)</kbd>
 <kbd>[**EBBC OpenData**](https://ebbcopendata.vercel.app/)</kbd>
@@ -42,7 +42,7 @@
 <kbd>[**Deskstamp**](https://github.com/GabrielBaiano/Deskstamp)</kbd>
 
 <br />
-<a href="https://gabrielgama.vercel.app/">
+<a href="https://gabrielbaiano.vercel.app/">
   <table align="right">
       <tr>
           <td>
