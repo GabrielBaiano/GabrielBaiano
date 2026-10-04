@@ -1,3 +1,12 @@
 <p align="left">
   <img src="assets/slices/slice_01_art.gif" width="394" align="top" alt="Manga Character Motion Art" /><br><img src="assets/slices/slice_02_header.svg" width="394" align="top" alt="Ticket Header" /><br><a href="https://gabrielbaiano.vercel.app/" title="Portfólio"><img src="assets/slices/slice_03_portfolio.svg" width="394" align="top" alt="Portfólio" /></a><br><a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/" title="Connect on LinkedIn"><img src="assets/slices/slice_04_linkedin.svg" width="394" align="top" alt="LinkedIn" /></a><br><img src="assets/slices/slice_05_stats.svg" width="394" align="top" alt="Commit Activity & Stats" /><br><img src="assets/slices/slice_06_note.svg" width="394" align="top" alt="Handwritten Literary Quote" />
 </p>
+
+<p align="left">
+  <kbd><a href="https://gabrielbaiano.vercel.app/">Portfolio</a></kbd>
+  <kbd><a href="https://github.com/GabrielBaiano/awesome-readme">Awesome README</a></kbd>
+  <kbd><a href="https://github.com/GabrielBaiano/paperback">Paperback</a></kbd>
+  <kbd><a href="https://github.com/GabrielBaiano/EBBC-OpenData">EBBC OpenData</a></kbd>
+  <kbd><a href="https://github.com/GabrielBaiano/pure-svg-charts">Pure SVG Charts</a></kbd>
+  <kbd><a href="https://github.com/GabrielBaiano/Deskstamp">Deskstamp</a></kbd>
+</p>
