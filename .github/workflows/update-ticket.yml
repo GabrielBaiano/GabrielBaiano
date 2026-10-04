@@ -1,0 +1,85 @@
+name: Update Vintage Ticket Profile
+
+on:
+  schedule:
+    # Run daily at midnight UTC to rotate quotes and update metrics
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      commits_count:
+        description: 'Weekly commits count (e.g. +54 / wk)'
+        required: false
+        default: '+54 / wk'
+      streak_days:
+        description: 'Current commit streak (e.g. 28 days)'
+        required: false
+        default: '28 days'
+      quote_id:
+        description: 'Optional quote ID override (e.g. dune-fear, frank-fearless, sisyphus-happy)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  update-ticket:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install System Dependencies & Fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libcairo2-dev fonts-noto-cjk
+          mkdir -p ~/.local/share/fonts
+          curl -fLo ~/.local/share/fonts/Caveat.ttf https://github.com/google/fonts/raw/main/ofl/caveat/Caveat%5Bwght%5D.ttf || true
+          fc-cache -f -v || true
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pycairo pillow numpy
+
+      - name: Fetch Live Commits & Date
+        id: stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE_STR=$(date +'%d/%b/%Y')
+          echo "date=$DATE_STR" >> $GITHUB_OUTPUT
+          
+          COMMITS_INPUT="${{ github.event.inputs.commits_count }}"
+          if [ -z "$COMMITS_INPUT" ]; then
+            COMMITS_INPUT="+54 / wk"
+          fi
+          echo "commits=$COMMITS_INPUT" >> $GITHUB_OUTPUT
+
+      - name: Regenerate Ticket & Slices
+        run: |
+          QUOTE_ARG=""
+          if [ -n "${{ github.event.inputs.quote_id }}" ]; then
+            QUOTE_ARG="--quote-id ${{ github.event.inputs.quote_id }}"
+          fi
+          python3 scripts/generate_ticket.py \
+            --commits "${{ steps.stats.outputs.commits }}" \
+            --date "${{ steps.stats.outputs.date }}" \
+            $QUOTE_ARG
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/ README.md
+          if git diff --staged --quiet; then
+            echo "No changes in ticket assets."
+          else
+            git commit -m "chore(ticket): update daily literary quote and metrics [skip ci]"
+            git push
+          fi
