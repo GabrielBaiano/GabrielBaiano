@@ -5,7 +5,7 @@
     <img width="250" height="250" src="whatIsThis_meme.svg" style="border-radius:50%" />
   </a>
   <br>
-  Hi, I'm Gabriel, Front-end Developer from Brazil.
+  Hi, I'm Gabriel, Front-end Developer from Brazil!
   <p>
     <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> • 
     <a href="mailto:gabrielngama@gmail.com">E-Mail</a> • 
