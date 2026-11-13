@@ -7,8 +7,8 @@
   <br>
   Hi, I'm Gabriel, Front-end Developer from Brazil!
   <p>
-    <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a>   
-    <a href="mailto:gabrielngama@gmail.com">E-Mail</a>   
+    <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> • 
+    <a href="mailto:gabrielngama@gmail.com">E-Mail</a> • 
     <a href="https://gabrielbaiano.vercel.app/">Portfolio</a>
   </p>
   <br>
