@@ -12,7 +12,12 @@
     <a href="https://gabrielbaiano.vercel.app/">Portfolio</a>
   </p>
   <br>
-  <br>
+  <p>✦ My apps &amp; tools ✦</p>
+  <p>
+    <a href="https://github.com/GabrielBaiano/ashen-pomodoro" title="ASHEN Pomodoro">
+      <img src="assets/icons/ashen-app-icon.gif" alt="ASHEN Pomodoro" width="64" height="64" />
+    </a>
+  </p>
   <br>
 </div>
 
@@ -27,7 +32,7 @@
 | --- | --- | --- | --- |
 | [bibliolatam](https://github.com/BRAN-Org/bibliolatam) | [`#github`](https://github.com/BRAN-Org/bibliolatam) | [![GitHub stars](https://img.shields.io/github/stars/BRAN-Org/bibliolatam?style=flat&label=)](https://github.com/BRAN-Org/bibliolatam/stargazers) | Latin American Bibliographic Data Parsers for bibliometrix · R package |
 | [Clubo](https://github.com/GabrielBaiano/Clubo) | [`#homepage`](https://paperback.fly.dev/) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/Clubo?style=flat&label=)](https://github.com/GabrielBaiano/Clubo/stargazers) | Real-time social reading & virtual book club in the browser |
-| [bonfire-pomodoro](https://github.com/GabrielBaiano/bonfire-pomodoro) | [`#github`](https://github.com/GabrielBaiano/bonfire-pomodoro) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/bonfire-pomodoro?style=flat&label=)](https://github.com/GabrielBaiano/bonfire-pomodoro/stargazers) | Dark Souls-themed 3D TrueColor ASCII Pomodoro timer for Linux · Pure C99 |
+| [ashen-pomodoro](https://github.com/GabrielBaiano/ashen-pomodoro) | [`#github`](https://github.com/GabrielBaiano/ashen-pomodoro) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/ashen-pomodoro?style=flat&label=)](https://github.com/GabrielBaiano/ashen-pomodoro/stargazers) | Soulsborne 3D TrueColor ANSI Pomodoro timer for Linux & macOS · Pure C99 |
 | [pure-svg-charts](https://github.com/GabrielBaiano/pure-svg-charts) | [`#github`](https://github.com/GabrielBaiano/pure-svg-charts) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/pure-svg-charts?style=flat&label=)](https://github.com/GabrielBaiano/pure-svg-charts/stargazers) | Ultra-lightweight reactive SVG charts · Zero dependencies |
 | [Deskstamp](https://github.com/GabrielBaiano/Deskstamp) | [`#github`](https://github.com/GabrielBaiano/Deskstamp) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/Deskstamp?style=flat&label=)](https://github.com/GabrielBaiano/Deskstamp/stargazers) | Native desktop watermark overlay for Linux & Pop!_OS COSMIC |
 | [key-caster](https://github.com/GabrielBaiano/key-caster) | [`#github`](https://github.com/GabrielBaiano/key-caster) | [![GitHub stars](https://img.shields.io/github/stars/GabrielBaiano/key-caster?style=flat&label=)](https://github.com/GabrielBaiano/key-caster/stargazers) | Lightweight on-screen keystroke displayer for Linux (Wayland, COSMIC, X11) |
@@ -40,7 +45,7 @@
 <kbd>[**Portfolio**](https://gabrielbaiano.vercel.app/)</kbd>
 <kbd>[**Bibliolatam**](https://github.com/BRAN-Org/bibliolatam)</kbd>
 <kbd>[**Clubo**](https://paperback.fly.dev/)</kbd>
-<kbd>[**Bonfire Pomodoro**](https://github.com/GabrielBaiano/bonfire-pomodoro)</kbd>
+<kbd>[**ASHEN Pomodoro**](https://github.com/GabrielBaiano/ashen-pomodoro)</kbd>
 <kbd>[**Pure SVG Charts**](https://github.com/GabrielBaiano/pure-svg-charts)</kbd>
 <kbd>[**Deskstamp**](https://github.com/GabrielBaiano/Deskstamp)</kbd>
 <kbd>[**Awesome README**](https://awesome-readme-nu.vercel.app/)</kbd>
