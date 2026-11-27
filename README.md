@@ -17,6 +17,10 @@
     <a href="https://github.com/GabrielBaiano/ashen-pomodoro" title="ASHEN Pomodoro">
       <img src="assets/icons/ashen-app-icon.gif" alt="ASHEN Pomodoro" width="64" height="64" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/GabrielBaiano/key-caster" title="key-caster">
+      <img src="assets/icons/key-caster-app-icon.png" alt="key-caster" width="64" height="64" />
+    </a>
   </p>
   <br>
 </div>
